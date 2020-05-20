@@ -1,1 +1,1 @@
-Sitemap: https://btruhand.github.io/blog/sitemap.xml
+Sitemap: https://btruhand.github.io/sitemap.xml

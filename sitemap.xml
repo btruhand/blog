@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://btruhand.github.io/blog/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://btruhand.github.io/2017/journey-until-now</loc>
+<lastmod>2017-02-04T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>https://btruhand.github.io/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://btruhand.github.io/blog/jupyter/2020/02/20/test.html</loc>
+<loc>https://btruhand.github.io/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://btruhand.github.io/blog/about/</loc>
+<loc>https://btruhand.github.io/blog,/thoughts/2020/05/19/reboot.html</loc>
+<lastmod>2020-05-19T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://btruhand.github.io/blog/</loc>
+<loc>https://btruhand.github.io/about/</loc>
 </url>
 <url>
-<loc>https://btruhand.github.io/blog/search/</loc>
+<loc>https://btruhand.github.io/</loc>
 </url>
 <url>
-<loc>https://btruhand.github.io/blog/categories/</loc>
+<loc>https://btruhand.github.io/search/</loc>
+</url>
+<url>
+<loc>https://btruhand.github.io/categories/</loc>
 </url>
 </urlset>
