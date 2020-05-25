@@ -1,4 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-05-19T23:17:26-05:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand</title><subtitle>Btruhand's blogging outlet</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">Reboot</title><link href="https://btruhand.github.io/blog/blog,/thoughts/2020/05/19/reboot.html" rel="alternate" type="text/html" title="Reboot" /><published>2020-05-19T00:00:00-05:00</published><updated>2020-05-19T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/blog,/thoughts/2020/05/19/reboot</id><content type="html" xml:base="https://btruhand.github.io/blog/blog,/thoughts/2020/05/19/reboot.html">&lt;p&gt;The first time I tried blogging was back in 2017. Like now, back then I had the same thought of “hey why not start blogging, it will be good for experience and maybe
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-05-25T03:17:09-05:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand - scattering of thoughts</title><subtitle>Btruhand's blogging outlet</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">The best course at SFU was a Sociology course</title><link href="https://btruhand.github.io/blog/post/2020/05/24/the-best-sfu-course-sociology" rel="alternate" type="text/html" title="The best course at SFU was a Sociology course" /><published>2020-05-24T00:00:00-05:00</published><updated>2020-05-24T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/05/24/the-best-sfu-course-sociology</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/05/24/the-best-sfu-course-sociology">&lt;p&gt;For my final term at SFU for the Big Data specialization masters program I was at a decision junction between several courses I can take. I was certain of taking an
+NLP (natural language processing) course and only need to take one more elective course besides that. The choice was between &lt;a href=&quot;https://coursys.sfu.ca/2020sp-cmpt-727-g1/pages/&quot;&gt;CMPT 727 - Statistical Machine Learning&lt;/a&gt; and &lt;a href=&quot;https://www.sfu.ca/outlines.html?2020/spring/cmns/815/g100&quot;&gt;CMNS 815 - Social Construction of Communication Technologies&lt;/a&gt;. CMPT 727 would clearly complement the whole degree itself and would even go hand in hand with NLP, while CMNS 815 may be argued as more loosely tied to the degree and my overall career path. But I have made a similar decision before in my undergraduate years, between taking statistics or philosophy as my minor. I chose the uncommon philosophy as my choice, and in the same fate spirit as I did before I choise CMNS 815 as my last elective course to take.&lt;/p&gt;
+
+&lt;h3 id=&quot;why&quot;&gt;Why?&lt;/h3&gt;
+
+&lt;p&gt;My decision to take philosophy as my undergraduate minor were due to both my interest and benefits. With machine learning and data science on the rise, many would
+probably I missed out on the opportunity as statistical capabilities would help me transition with more ease to such roles. Personally I disagree, firstly because
+statistics is not something I’m particularly fond of learning (it is one of the more difficult areas of mathematics for me to get a handle on), and secondly
+I felt that zoning in on a technical field would make me too technically inclined. I prefer to be more balanced and rounded in both discipline and worldview.
+These same reasons apply when I chose CMNS 815 over CMPT 727. I knew that I am neither greatly interested in statistics or machine learning (I prefer building and
+designing software) and that CMNS 815 would help me see technology in a broder social context.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-i-learned&quot;&gt;What I learned&lt;/h3&gt;
+
+&lt;p&gt;CMNS 815 in a nutshell was examining how technologies not just impact, but play a role in the shaping of society, cultures and worldviews. The technologies discussed
+were not constraint to the technologies we are so wary of these days such as social media, surveillance cameras, computers but also to clocks, institutions, language
+and many more things that in this day and age we would not immediately associate with the word “technology”. Perhaps it is better to replace “technology” with the term
+“tools of life” to capture the broad sense of technology covered. But the course isn’t about isolating particular social phenomena or impact to a particular technology,
+but it attempted to use particular case studies of technology to bring about understanding and appreciation of how technology &lt;em&gt;MAY&lt;/em&gt; impact society. Example of topics
+include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;distributed agency, realizing objects (technologies) can express a form of choice and greatly affect our own sense of agency&lt;/li&gt;
+  &lt;li&gt;the subtle yet powerful classifications made by technologies and their designers&lt;/li&gt;
+  &lt;li&gt;the encoding of humanity in something that is not human, such as data&lt;/li&gt;
+  &lt;li&gt;importance and power of language and metaphors in how we think of the world including technologies&lt;/li&gt;
+  &lt;li&gt;ethics and how technologists grapple with ethical needs and perceived moral stances&lt;/li&gt;
+  &lt;li&gt;shaping behaviour through technology&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;and many more…&lt;/p&gt;
+
+&lt;h3 id=&quot;why-i-value-it-so-much&quot;&gt;Why I value it so much&lt;/h3&gt;
+
+&lt;p&gt;Aside from my own interests the professor Sun Ha Hong who teched the course was clearly keen, knowledgeable and empathetic. Combined with my own personal interests,
+it made the class much more enjoyable. The small class size (7 people in total) was also beneficial as thre were a lot of opportunities, designed or ad-hoc, to engage
+with students and exchange pointers. Above all however is the diversity of topics, while also maintaining an approachable depth so as to not just be a skim of topics.
+As a professional working in software, there are seldom any encouragement or endorsed professional opportunity to expand insights beyond the usual technical realm.
+Having guidance in the vast discourse of social topics helps me expand my understanding and appreciation in a manageable way.&lt;/p&gt;
+
+&lt;p&gt;As a software engineer I wanted to be better at wrestling and engaging with the social consequences of my own work and the profession itself. I came to CMNS 815 with
+that hope, and I felt it did better prepare me for future challenges. Certainly, the spotlights given by media these days pressured me to thinking that I should be
+able to balance the ethical and social good with monetary results. But I am also of the conviction that positively navigating the social dilemmas of our creation
+should be a nurtured and expected ability of software engineers. This course helped me forward to realize that conviction in my own professional life. Sure, the
+chances of being asked about the social issues of technology in an interview will likely not crop up. Open discussion of them might not even happen reasonably often,
+and my colleagues may show little interest. However, I see this knowledge and experience as my little edge over others, and I can proudly say that I am not afraid to
+reflect on the muddy social issues of the software I had built.&lt;/p&gt;
+
+&lt;p&gt;As a culmination of what I had learnt I wrote a paper on cryptocurrency and trust (maybe I will cover it in some future time).&lt;/p&gt;
+
+&lt;h3 id=&quot;my-recommendation-to-you&quot;&gt;My recommendation to you&lt;/h3&gt;
+
+&lt;p&gt;If you are an SFU student and you can afford to take this course, take this course. If you happen to find a similar course somewhere else take it. I’m obviously biased,
+and well aware that such my fellow software engineers (or perhaps technologists in general) are not really inclined to take such courses. I understand, between
+learning something that can have immediate clear gains to your professional and personal life (learning some new language) vs a course like CMNS 815, many would choose
+the former. Yet I can’t help to recommend this course least because of the knowledge and experience I had gained, and more so due to how I throughly enjoyed it.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">For my final term at SFU for the Big Data specialization masters program I was at a decision junction between several courses I can take. I was certain of taking an NLP (natural language processing) course and only need to take one more elective course besides that. The choice was between CMPT 727 - Statistical Machine Learning and CMNS 815 - Social Construction of Communication Technologies. CMPT 727 would clearly complement the whole degree itself and would even go hand in hand with NLP, while CMNS 815 may be argued as more loosely tied to the degree and my overall career path. But I have made a similar decision before in my undergraduate years, between taking statistics or philosophy as my minor. I chose the uncommon philosophy as my choice, and in the same fate spirit as I did before I choise CMNS 815 as my last elective course to take.</summary></entry><entry><title type="html">Reboot</title><link href="https://btruhand.github.io/blog/post/2020/05/19/reboot" rel="alternate" type="text/html" title="Reboot" /><published>2020-05-19T00:00:00-05:00</published><updated>2020-05-19T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/05/19/reboot</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/05/19/reboot">&lt;p&gt;The first time I tried blogging was back in 2017. Like now, back then I had the same thought of “hey why not start blogging, it will be good for experience and maybe
 it will be helpful for people”. But then I stopped, and here I am again trying to make blog posts. One time I had an interview for a job and the interviewee asked me
 what do in my personal time to which I said I &lt;em&gt;used&lt;/em&gt; to blog, which the interviewee of course asked “why did you stop?” It was a hard question to answer on the spot,
 because I knew that the truthful answer does not put me in a good spotlight. The reasons why I stopped blogging was…&lt;/p&gt;
@@ -30,858 +85,104 @@ second&lt;/li&gt;
   &lt;li&gt;Enjoy it more! Honestly, I need to enjoy my own creative work more and enjoy the process of it&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;I’ll be sticking my best to these guidelines&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">The first time I tried blogging was back in 2017. Like now, back then I had the same thought of “hey why not start blogging, it will be good for experience and maybe it will be helpful for people”. But then I stopped, and here I am again trying to make blog posts. One time I had an interview for a job and the interviewee asked me what do in my personal time to which I said I used to blog, which the interviewee of course asked “why did you stop?” It was a hard question to answer on the spot, because I knew that the truthful answer does not put me in a good spotlight. The reasons why I stopped blogging was…</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://btruhand.github.io/blog/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://btruhand.github.io/blog/jupyter/2020/02/20/test</id><content type="html" xml:base="https://btruhand.github.io/blog/jupyter/2020/02/20/test.html">&lt;!--
-#################################################
-### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
-#################################################
-# file to edit: _notebooks/2020-02-20-test.ipynb
---&gt;
-
-&lt;div class=&quot;container&quot; id=&quot;notebook-container&quot;&gt;
-        
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h1 id=&quot;About&quot;&gt;About&lt;a class=&quot;anchor-link&quot; href=&quot;#About&quot;&gt; &lt;/a&gt;&lt;/h1&gt;&lt;p&gt;This notebook is a demonstration of some of capabilities of &lt;a href=&quot;https://github.com/fastai/fastpages&quot;&gt;fastpages&lt;/a&gt; with notebooks.&lt;/p&gt;
-&lt;p&gt;With &lt;code&gt;fastpages&lt;/code&gt; you can save your jupyter notebooks into the &lt;code&gt;_notebooks&lt;/code&gt; folder at the root of your repository, and they will be automatically be converted to Jekyll compliant blog posts!&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Front-Matter&quot;&gt;Front Matter&lt;a class=&quot;anchor-link&quot; href=&quot;#Front-Matter&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The first cell in your Jupyter Notebook or markdown blog post contains front matter. Front matter is metadata that can turn on/off options in your Notebook. It is formatted like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;# &quot;My Title&quot;
-&amp;gt; &quot;Awesome summary&quot;
-
-- toc:true- branch: master- badges: true- comments: true
-- author: Hamel Husain &amp;amp; Jeremy Howard
-- categories: [fastpages, jupyter]&lt;/code&gt;&lt;/pre&gt;
-&lt;ul&gt;
-&lt;li&gt;Setting &lt;code&gt;toc: true&lt;/code&gt; will automatically generate a table of contents&lt;/li&gt;
-&lt;li&gt;Setting &lt;code&gt;badges: true&lt;/code&gt; will automatically include GitHub and Google Colab links to your notebook.&lt;/li&gt;
-&lt;li&gt;Setting &lt;code&gt;comments: true&lt;/code&gt; will enable commenting on your blog post, powered by &lt;a href=&quot;https://github.com/utterance/utterances&quot;&gt;utterances&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The title and description need to be enclosed in double quotes only if they include special characters such as a colon. More details and options for front matter can be viewed on the &lt;a href=&quot;https://github.com/fastai/fastpages#front-matter-related-options&quot;&gt;front matter section&lt;/a&gt; of the README.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Markdown-Shortcuts&quot;&gt;Markdown Shortcuts&lt;a class=&quot;anchor-link&quot; href=&quot;#Markdown-Shortcuts&quot;&gt; &lt;/a&gt;&lt;/h2&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;p&gt;A &lt;code&gt;#hide&lt;/code&gt; comment at the top of any code cell will hide &lt;strong&gt;both the input and output&lt;/strong&gt; of that cell in your blog post.&lt;/p&gt;
-&lt;p&gt;A &lt;code&gt;#hide_input&lt;/code&gt; comment at the top of any code cell will &lt;strong&gt;only hide the input&lt;/strong&gt; of that cell.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-
-&lt;div class=&quot;output_wrapper&quot;&gt;
-&lt;div class=&quot;output&quot;&gt;
-
-&lt;div class=&quot;output_area&quot;&gt;
-
-&lt;div class=&quot;output_subarea output_stream output_stdout output_text&quot;&gt;
-&lt;pre&gt;The comment #hide_input was used to hide the code that produced this.
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;p&gt;put a &lt;code&gt;#collapse-hide&lt;/code&gt; flag at the top of any cell if you want to &lt;strong&gt;hide&lt;/strong&gt; that cell by default, but give the reader the option to show it:&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-&lt;details class=&quot;description&quot;&gt;
-      &lt;summary class=&quot;btn btn-sm&quot; data-open=&quot;Hide Code&quot; data-close=&quot;Show Code&quot;&gt;&lt;/summary&gt;
-        &lt;p&gt;&lt;div class=&quot;input&quot;&gt;
-
-&lt;div class=&quot;inner_cell&quot;&gt;
-    &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#collapse-hide&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pd&lt;/span&gt;
-&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;altair&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;alt&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-    &lt;/details&gt;
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;p&gt;put a &lt;code&gt;#collapse-show&lt;/code&gt; flag at the top of any cell if you want to &lt;strong&gt;show&lt;/strong&gt; that cell by default, but give the reader the option to hide it:&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-&lt;details class=&quot;description&quot; open=&quot;&quot;&gt;
-      &lt;summary class=&quot;btn btn-sm&quot; data-open=&quot;Hide Code&quot; data-close=&quot;Show Code&quot;&gt;&lt;/summary&gt;
-        &lt;p&gt;&lt;div class=&quot;input&quot;&gt;
-
-&lt;div class=&quot;inner_cell&quot;&gt;
-    &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;#collapse-show&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;cars&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/cars.json&amp;#39;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/movies.json&amp;#39;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;sp500&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/sp500.csv&amp;#39;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;stocks&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/stocks.csv&amp;#39;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;flights&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/flights-5k.json&amp;#39;&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-    &lt;/details&gt;
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Interactive-Charts-With-Altair&quot;&gt;Interactive Charts With Altair&lt;a class=&quot;anchor-link&quot; href=&quot;#Interactive-Charts-With-Altair&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Charts made with Altair remain interactive.  Example charts taken from &lt;a href=&quot;https://github.com/uwdata/visualization-curriculum&quot;&gt;this repo&lt;/a&gt;, specifically &lt;a href=&quot;https://github.com/uwdata/visualization-curriculum/blob/master/altair_interaction.ipynb&quot;&gt;this notebook&lt;/a&gt;.&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h3 id=&quot;Example-1:-DropDown&quot;&gt;Example 1: DropDown&lt;a class=&quot;anchor-link&quot; href=&quot;#Example-1:-DropDown&quot;&gt; &lt;/a&gt;&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-&lt;div class=&quot;input&quot;&gt;
-
-&lt;div class=&quot;inner_cell&quot;&gt;
-    &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# single-value selection over [Major_Genre, MPAA_Rating] pairs&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;# use specific hard-wired values as the initial selected values&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;selection&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;selection_single&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Select&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;fields&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Major_Genre&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MPAA_Rating&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Major_Genre&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Drama&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MPAA_Rating&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;R&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;bind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Major_Genre&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;binding_select&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;genres&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MPAA_Rating&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;binding_radio&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mpaa&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  
-&lt;span class=&quot;c1&quot;&gt;# scatter plot, modify opacity based on selection&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Chart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mark_circle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_selection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;selection&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Rotten_Tomatoes_Rating:Q&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;IMDB_Rating:Q&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;tooltip&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Title:N&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;opacity&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;condition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;selection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.75&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mf&quot;&gt;0.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;output_wrapper&quot;&gt;
-&lt;div class=&quot;output&quot;&gt;
-
-&lt;div class=&quot;output_area&quot;&gt;
-
-
-&lt;div class=&quot;output_html rendered_html output_subarea output_execute_result&quot;&gt;
-
-&lt;div id=&quot;altair-viz-1a49e83878ce4d678d7b162f3d6b510f&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-  (function(spec, embedOpt){
-    const outputDiv = document.getElementById(&quot;altair-viz-1a49e83878ce4d678d7b162f3d6b510f&quot;);
-    const paths = {
-      &quot;vega&quot;: &quot;https://cdn.jsdelivr.net/npm//vega@5?noext&quot;,
-      &quot;vega-lib&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-lib?noext&quot;,
-      &quot;vega-lite&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-lite@4.0.2?noext&quot;,
-      &quot;vega-embed&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-embed@6?noext&quot;,
-    };
-
-    function loadScript(lib) {
-      return new Promise(function(resolve, reject) {
-        var s = document.createElement('script');
-        s.src = paths[lib];
-        s.async = true;
-        s.onload = () =&gt; resolve(paths[lib]);
-        s.onerror = () =&gt; reject(`Error loading script: ${paths[lib]}`);
-        document.getElementsByTagName(&quot;head&quot;)[0].appendChild(s);
-      });
-    }
-
-    function showError(err) {
-      outputDiv.innerHTML = `&lt;div class=&quot;error&quot; style=&quot;color:red;&quot;&gt;${err}&lt;/div&gt;`;
-      throw err;
-    }
-
-    function displayChart(vegaEmbed) {
-      vegaEmbed(outputDiv, spec, embedOpt)
-        .catch(err =&gt; showError(`Javascript Error: ${err.message}&lt;br&gt;This usually means there's a typo in your chart specification. See the javascript console for the full traceback.`));
-    }
-
-    if(typeof define === &quot;function&quot; &amp;&amp; define.amd) {
-      requirejs.config({paths});
-      require([&quot;vega-embed&quot;], displayChart, err =&gt; showError(`Error loading script: ${err.message}`));
-    } else if (typeof vegaEmbed === &quot;function&quot;) {
-      displayChart(vegaEmbed);
-    } else {
-      loadScript(&quot;vega&quot;)
-        .then(() =&gt; loadScript(&quot;vega-lite&quot;))
-        .then(() =&gt; loadScript(&quot;vega-embed&quot;))
-        .catch(showError)
-        .then(() =&gt; displayChart(vegaEmbed));
-    }
-  })({&quot;config&quot;: {&quot;view&quot;: {&quot;continuousWidth&quot;: 400, &quot;continuousHeight&quot;: 300}}, &quot;data&quot;: {&quot;url&quot;: &quot;https://vega.github.io/vega-datasets/data/movies.json&quot;}, &quot;mark&quot;: &quot;circle&quot;, &quot;encoding&quot;: {&quot;opacity&quot;: {&quot;condition&quot;: {&quot;value&quot;: 0.75, &quot;selection&quot;: &quot;Select&quot;}, &quot;value&quot;: 0.05}, &quot;tooltip&quot;: {&quot;type&quot;: &quot;nominal&quot;, &quot;field&quot;: &quot;Title&quot;}, &quot;x&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;Rotten_Tomatoes_Rating&quot;}, &quot;y&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;IMDB_Rating&quot;}}, &quot;selection&quot;: {&quot;Select&quot;: {&quot;type&quot;: &quot;single&quot;, &quot;fields&quot;: [&quot;Major_Genre&quot;, &quot;MPAA_Rating&quot;], &quot;init&quot;: {&quot;Major_Genre&quot;: &quot;Drama&quot;, &quot;MPAA_Rating&quot;: &quot;R&quot;}, &quot;bind&quot;: {&quot;Major_Genre&quot;: {&quot;input&quot;: &quot;select&quot;, &quot;options&quot;: [&quot;Action&quot;, &quot;Adventure&quot;, &quot;Black Comedy&quot;, &quot;Comedy&quot;, &quot;Concert/Performance&quot;, &quot;Documentary&quot;, &quot;Drama&quot;, &quot;Horror&quot;, &quot;Musical&quot;, &quot;Romantic Comedy&quot;, &quot;Thriller/Suspense&quot;, &quot;Western&quot;]}, &quot;MPAA_Rating&quot;: {&quot;input&quot;: &quot;radio&quot;, &quot;options&quot;: [&quot;G&quot;, &quot;PG&quot;, &quot;PG-13&quot;, &quot;R&quot;, &quot;NC-17&quot;, &quot;Not Rated&quot;]}}}}, &quot;$schema&quot;: &quot;https://vega.github.io/schema/vega-lite/v4.0.2.json&quot;}, {&quot;mode&quot;: &quot;vega-lite&quot;});
-&lt;/script&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h3 id=&quot;Example-2:-Tooltips&quot;&gt;Example 2: Tooltips&lt;a class=&quot;anchor-link&quot; href=&quot;#Example-2:-Tooltips&quot;&gt; &lt;/a&gt;&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-&lt;div class=&quot;input&quot;&gt;
-
-&lt;div class=&quot;inner_cell&quot;&gt;
-    &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Chart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mark_circle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_selection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;selection_interval&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;bind&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;scales&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encodings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;x&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;])&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Rotten_Tomatoes_Rating:Q&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;IMDB_Rating:Q&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;axis&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Axis&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;minExtent&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;30&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)),&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# use min extent to stabilize axis title placement&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;tooltip&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Title:N&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Release_Date:N&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;IMDB_Rating:Q&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Rotten_Tomatoes_Rating:Q&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;properties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;600&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;output_wrapper&quot;&gt;
-&lt;div class=&quot;output&quot;&gt;
-
-&lt;div class=&quot;output_area&quot;&gt;
-
-
-&lt;div class=&quot;output_html rendered_html output_subarea output_execute_result&quot;&gt;
-
-&lt;div id=&quot;altair-viz-c022b476f4fb482ca6f609bf6ed082d2&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-  (function(spec, embedOpt){
-    const outputDiv = document.getElementById(&quot;altair-viz-c022b476f4fb482ca6f609bf6ed082d2&quot;);
-    const paths = {
-      &quot;vega&quot;: &quot;https://cdn.jsdelivr.net/npm//vega@5?noext&quot;,
-      &quot;vega-lib&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-lib?noext&quot;,
-      &quot;vega-lite&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-lite@4.0.2?noext&quot;,
-      &quot;vega-embed&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-embed@6?noext&quot;,
-    };
-
-    function loadScript(lib) {
-      return new Promise(function(resolve, reject) {
-        var s = document.createElement('script');
-        s.src = paths[lib];
-        s.async = true;
-        s.onload = () =&gt; resolve(paths[lib]);
-        s.onerror = () =&gt; reject(`Error loading script: ${paths[lib]}`);
-        document.getElementsByTagName(&quot;head&quot;)[0].appendChild(s);
-      });
-    }
-
-    function showError(err) {
-      outputDiv.innerHTML = `&lt;div class=&quot;error&quot; style=&quot;color:red;&quot;&gt;${err}&lt;/div&gt;`;
-      throw err;
-    }
-
-    function displayChart(vegaEmbed) {
-      vegaEmbed(outputDiv, spec, embedOpt)
-        .catch(err =&gt; showError(`Javascript Error: ${err.message}&lt;br&gt;This usually means there's a typo in your chart specification. See the javascript console for the full traceback.`));
-    }
-
-    if(typeof define === &quot;function&quot; &amp;&amp; define.amd) {
-      requirejs.config({paths});
-      require([&quot;vega-embed&quot;], displayChart, err =&gt; showError(`Error loading script: ${err.message}`));
-    } else if (typeof vegaEmbed === &quot;function&quot;) {
-      displayChart(vegaEmbed);
-    } else {
-      loadScript(&quot;vega&quot;)
-        .then(() =&gt; loadScript(&quot;vega-lite&quot;))
-        .then(() =&gt; loadScript(&quot;vega-embed&quot;))
-        .catch(showError)
-        .then(() =&gt; displayChart(vegaEmbed));
-    }
-  })({&quot;config&quot;: {&quot;view&quot;: {&quot;continuousWidth&quot;: 400, &quot;continuousHeight&quot;: 300}}, &quot;data&quot;: {&quot;url&quot;: &quot;https://vega.github.io/vega-datasets/data/movies.json&quot;}, &quot;mark&quot;: &quot;circle&quot;, &quot;encoding&quot;: {&quot;tooltip&quot;: [{&quot;type&quot;: &quot;nominal&quot;, &quot;field&quot;: &quot;Title&quot;}, {&quot;type&quot;: &quot;nominal&quot;, &quot;field&quot;: &quot;Release_Date&quot;}, {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;IMDB_Rating&quot;}, {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;Rotten_Tomatoes_Rating&quot;}], &quot;x&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;Rotten_Tomatoes_Rating&quot;}, &quot;y&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;axis&quot;: {&quot;minExtent&quot;: 30}, &quot;field&quot;: &quot;IMDB_Rating&quot;}}, &quot;height&quot;: 400, &quot;selection&quot;: {&quot;selector001&quot;: {&quot;type&quot;: &quot;interval&quot;, &quot;bind&quot;: &quot;scales&quot;, &quot;encodings&quot;: [&quot;x&quot;]}}, &quot;width&quot;: 600, &quot;$schema&quot;: &quot;https://vega.github.io/schema/vega-lite/v4.0.2.json&quot;}, {&quot;mode&quot;: &quot;vega-lite&quot;});
-&lt;/script&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h3 id=&quot;Example-3:-More-Tooltips&quot;&gt;Example 3: More Tooltips&lt;a class=&quot;anchor-link&quot; href=&quot;#Example-3:-More-Tooltips&quot;&gt; &lt;/a&gt;&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-&lt;div class=&quot;input&quot;&gt;
-
-&lt;div class=&quot;inner_cell&quot;&gt;
-    &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;c1&quot;&gt;# select a point for which to provide details-on-demand&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;selection_single&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;encodings&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;x&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# limit selection to x-axis value&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;on&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;mouseover&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# select on mouseover events&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;nearest&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;kc&quot;&gt;True&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;# select data point nearest the cursor&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;empty&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;none&amp;#39;&lt;/span&gt;     &lt;span class=&quot;c1&quot;&gt;# empty selection includes no data points&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;# define our base line chart of stock prices&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;base&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Chart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mark_line&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;date:T&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;price:Q&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;scale&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Scale&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;log&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)),&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;symbol:N&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-
-&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;layer&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# base line chart&lt;/span&gt;
-    
-    &lt;span class=&quot;c1&quot;&gt;# add a rule mark to serve as a guide line&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Chart&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mark_rule&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;#aaa&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;date:T&amp;#39;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform_filter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-    
-    &lt;span class=&quot;c1&quot;&gt;# add circle marks for selected time points, hide unselected points&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mark_circle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;opacity&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;condition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;add_selection&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;# add white stroked text to provide a legible background for labels&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mark_text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;align&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;left&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dx&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;stroke&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;white&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;strokeWidth&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;price:Q&amp;#39;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform_filter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-
-    &lt;span class=&quot;c1&quot;&gt;# add text labels for stock prices&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;base&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mark_text&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;align&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;left&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dx&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dy&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=-&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;text&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;price:Q&amp;#39;&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;transform_filter&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;label&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
-    
-    &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;stocks&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;properties&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;700&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;400&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;output_wrapper&quot;&gt;
-&lt;div class=&quot;output&quot;&gt;
-
-&lt;div class=&quot;output_area&quot;&gt;
-
-
-&lt;div class=&quot;output_html rendered_html output_subarea output_execute_result&quot;&gt;
-
-&lt;div id=&quot;altair-viz-9283d3681fd24aafa3d1e2f9ad193ecf&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-  (function(spec, embedOpt){
-    const outputDiv = document.getElementById(&quot;altair-viz-9283d3681fd24aafa3d1e2f9ad193ecf&quot;);
-    const paths = {
-      &quot;vega&quot;: &quot;https://cdn.jsdelivr.net/npm//vega@5?noext&quot;,
-      &quot;vega-lib&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-lib?noext&quot;,
-      &quot;vega-lite&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-lite@4.0.2?noext&quot;,
-      &quot;vega-embed&quot;: &quot;https://cdn.jsdelivr.net/npm//vega-embed@6?noext&quot;,
-    };
-
-    function loadScript(lib) {
-      return new Promise(function(resolve, reject) {
-        var s = document.createElement('script');
-        s.src = paths[lib];
-        s.async = true;
-        s.onload = () =&gt; resolve(paths[lib]);
-        s.onerror = () =&gt; reject(`Error loading script: ${paths[lib]}`);
-        document.getElementsByTagName(&quot;head&quot;)[0].appendChild(s);
-      });
-    }
-
-    function showError(err) {
-      outputDiv.innerHTML = `&lt;div class=&quot;error&quot; style=&quot;color:red;&quot;&gt;${err}&lt;/div&gt;`;
-      throw err;
-    }
-
-    function displayChart(vegaEmbed) {
-      vegaEmbed(outputDiv, spec, embedOpt)
-        .catch(err =&gt; showError(`Javascript Error: ${err.message}&lt;br&gt;This usually means there's a typo in your chart specification. See the javascript console for the full traceback.`));
-    }
-
-    if(typeof define === &quot;function&quot; &amp;&amp; define.amd) {
-      requirejs.config({paths});
-      require([&quot;vega-embed&quot;], displayChart, err =&gt; showError(`Error loading script: ${err.message}`));
-    } else if (typeof vegaEmbed === &quot;function&quot;) {
-      displayChart(vegaEmbed);
-    } else {
-      loadScript(&quot;vega&quot;)
-        .then(() =&gt; loadScript(&quot;vega-lite&quot;))
-        .then(() =&gt; loadScript(&quot;vega-embed&quot;))
-        .catch(showError)
-        .then(() =&gt; displayChart(vegaEmbed));
-    }
-  })({&quot;config&quot;: {&quot;view&quot;: {&quot;continuousWidth&quot;: 400, &quot;continuousHeight&quot;: 300}}, &quot;layer&quot;: [{&quot;mark&quot;: &quot;line&quot;, &quot;encoding&quot;: {&quot;color&quot;: {&quot;type&quot;: &quot;nominal&quot;, &quot;field&quot;: &quot;symbol&quot;}, &quot;x&quot;: {&quot;type&quot;: &quot;temporal&quot;, &quot;field&quot;: &quot;date&quot;}, &quot;y&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;price&quot;, &quot;scale&quot;: {&quot;type&quot;: &quot;log&quot;}}}}, {&quot;mark&quot;: {&quot;type&quot;: &quot;rule&quot;, &quot;color&quot;: &quot;#aaa&quot;}, &quot;encoding&quot;: {&quot;x&quot;: {&quot;type&quot;: &quot;temporal&quot;, &quot;field&quot;: &quot;date&quot;}}, &quot;transform&quot;: [{&quot;filter&quot;: {&quot;selection&quot;: &quot;selector002&quot;}}]}, {&quot;mark&quot;: &quot;circle&quot;, &quot;encoding&quot;: {&quot;color&quot;: {&quot;type&quot;: &quot;nominal&quot;, &quot;field&quot;: &quot;symbol&quot;}, &quot;opacity&quot;: {&quot;condition&quot;: {&quot;value&quot;: 1, &quot;selection&quot;: &quot;selector002&quot;}, &quot;value&quot;: 0}, &quot;x&quot;: {&quot;type&quot;: &quot;temporal&quot;, &quot;field&quot;: &quot;date&quot;}, &quot;y&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;price&quot;, &quot;scale&quot;: {&quot;type&quot;: &quot;log&quot;}}}, &quot;selection&quot;: {&quot;selector002&quot;: {&quot;type&quot;: &quot;single&quot;, &quot;encodings&quot;: [&quot;x&quot;], &quot;on&quot;: &quot;mouseover&quot;, &quot;nearest&quot;: true, &quot;empty&quot;: &quot;none&quot;}}}, {&quot;mark&quot;: {&quot;type&quot;: &quot;text&quot;, &quot;align&quot;: &quot;left&quot;, &quot;dx&quot;: 5, &quot;dy&quot;: -5, &quot;stroke&quot;: &quot;white&quot;, &quot;strokeWidth&quot;: 2}, &quot;encoding&quot;: {&quot;color&quot;: {&quot;type&quot;: &quot;nominal&quot;, &quot;field&quot;: &quot;symbol&quot;}, &quot;text&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;price&quot;}, &quot;x&quot;: {&quot;type&quot;: &quot;temporal&quot;, &quot;field&quot;: &quot;date&quot;}, &quot;y&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;price&quot;, &quot;scale&quot;: {&quot;type&quot;: &quot;log&quot;}}}, &quot;transform&quot;: [{&quot;filter&quot;: {&quot;selection&quot;: &quot;selector002&quot;}}]}, {&quot;mark&quot;: {&quot;type&quot;: &quot;text&quot;, &quot;align&quot;: &quot;left&quot;, &quot;dx&quot;: 5, &quot;dy&quot;: -5}, &quot;encoding&quot;: {&quot;color&quot;: {&quot;type&quot;: &quot;nominal&quot;, &quot;field&quot;: &quot;symbol&quot;}, &quot;text&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;price&quot;}, &quot;x&quot;: {&quot;type&quot;: &quot;temporal&quot;, &quot;field&quot;: &quot;date&quot;}, &quot;y&quot;: {&quot;type&quot;: &quot;quantitative&quot;, &quot;field&quot;: &quot;price&quot;, &quot;scale&quot;: {&quot;type&quot;: &quot;log&quot;}}}, &quot;transform&quot;: [{&quot;filter&quot;: {&quot;selection&quot;: &quot;selector002&quot;}}]}], &quot;data&quot;: {&quot;url&quot;: &quot;https://vega.github.io/vega-datasets/data/stocks.csv&quot;}, &quot;height&quot;: 400, &quot;width&quot;: 700, &quot;$schema&quot;: &quot;https://vega.github.io/schema/vega-lite/v4.0.2.json&quot;}, {&quot;mode&quot;: &quot;vega-lite&quot;});
-&lt;/script&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Data-Tables&quot;&gt;Data Tables&lt;a class=&quot;anchor-link&quot; href=&quot;#Data-Tables&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can display tables per the usual way in your blog:&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-    
-    
-&lt;div class=&quot;cell border-box-sizing code_cell rendered&quot;&gt;
-&lt;div class=&quot;input&quot;&gt;
-
-&lt;div class=&quot;inner_cell&quot;&gt;
-    &lt;div class=&quot;input_area&quot;&gt;
-&lt;div class=&quot; highlight hl-ipython3&quot;&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;https://vega.github.io/vega-datasets/data/movies.json&amp;#39;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_json&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;movies&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;# display table with pandas&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Title&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Worldwide_Gross&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; 
-    &lt;span class=&quot;s1&quot;&gt;&amp;#39;Production_Budget&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Distributor&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;MPAA_Rating&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;IMDB_Rating&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;Rotten_Tomatoes_Rating&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]]&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;head&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;output_wrapper&quot;&gt;
-&lt;div class=&quot;output&quot;&gt;
-
-&lt;div class=&quot;output_area&quot;&gt;
-
-
-&lt;div class=&quot;output_html rendered_html output_subarea output_execute_result&quot;&gt;
-&lt;div&gt;
-&lt;style scoped=&quot;&quot;&gt;
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-&lt;/style&gt;
-&lt;table border=&quot;1&quot; class=&quot;dataframe&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr style=&quot;text-align: right;&quot;&gt;
-      &lt;th&gt;&lt;/th&gt;
-      &lt;th&gt;Title&lt;/th&gt;
-      &lt;th&gt;Worldwide_Gross&lt;/th&gt;
-      &lt;th&gt;Production_Budget&lt;/th&gt;
-      &lt;th&gt;Distributor&lt;/th&gt;
-      &lt;th&gt;MPAA_Rating&lt;/th&gt;
-      &lt;th&gt;IMDB_Rating&lt;/th&gt;
-      &lt;th&gt;Rotten_Tomatoes_Rating&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;th&gt;0&lt;/th&gt;
-      &lt;td&gt;The Land Girls&lt;/td&gt;
-      &lt;td&gt;146083.0&lt;/td&gt;
-      &lt;td&gt;8000000.0&lt;/td&gt;
-      &lt;td&gt;Gramercy&lt;/td&gt;
-      &lt;td&gt;R&lt;/td&gt;
-      &lt;td&gt;6.1&lt;/td&gt;
-      &lt;td&gt;NaN&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th&gt;1&lt;/th&gt;
-      &lt;td&gt;First Love, Last Rites&lt;/td&gt;
-      &lt;td&gt;10876.0&lt;/td&gt;
-      &lt;td&gt;300000.0&lt;/td&gt;
-      &lt;td&gt;Strand&lt;/td&gt;
-      &lt;td&gt;R&lt;/td&gt;
-      &lt;td&gt;6.9&lt;/td&gt;
-      &lt;td&gt;NaN&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th&gt;2&lt;/th&gt;
-      &lt;td&gt;I Married a Strange Person&lt;/td&gt;
-      &lt;td&gt;203134.0&lt;/td&gt;
-      &lt;td&gt;250000.0&lt;/td&gt;
-      &lt;td&gt;Lionsgate&lt;/td&gt;
-      &lt;td&gt;None&lt;/td&gt;
-      &lt;td&gt;6.8&lt;/td&gt;
-      &lt;td&gt;NaN&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th&gt;3&lt;/th&gt;
-      &lt;td&gt;Let's Talk About Sex&lt;/td&gt;
-      &lt;td&gt;373615.0&lt;/td&gt;
-      &lt;td&gt;300000.0&lt;/td&gt;
-      &lt;td&gt;Fine Line&lt;/td&gt;
-      &lt;td&gt;None&lt;/td&gt;
-      &lt;td&gt;NaN&lt;/td&gt;
-      &lt;td&gt;13.0&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;th&gt;4&lt;/th&gt;
-      &lt;td&gt;Slam&lt;/td&gt;
-      &lt;td&gt;1087521.0&lt;/td&gt;
-      &lt;td&gt;1000000.0&lt;/td&gt;
-      &lt;td&gt;Trimark&lt;/td&gt;
-      &lt;td&gt;R&lt;/td&gt;
-      &lt;td&gt;3.4&lt;/td&gt;
-      &lt;td&gt;62.0&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;/div&gt;
-    
-
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Images&quot;&gt;Images&lt;a class=&quot;anchor-link&quot; href=&quot;#Images&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;h3 id=&quot;Local-Images&quot;&gt;Local Images&lt;a class=&quot;anchor-link&quot; href=&quot;#Local-Images&quot;&gt; &lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You can reference local images and they will be copied and rendered on your blog automatically.  You can include these with the following markdown syntax:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;![](my_icons/fastai_logo.png)&lt;/code&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;/blog/images/copied_from_nb/my_icons/fastai_logo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h3 id=&quot;Remote-Images&quot;&gt;Remote Images&lt;a class=&quot;anchor-link&quot; href=&quot;#Remote-Images&quot;&gt; &lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Remote images can be included with the following markdown syntax:&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;![](https://image.flaticon.com/icons/svg/36/36686.svg)&lt;/code&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;https://image.flaticon.com/icons/svg/36/36686.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h3 id=&quot;Animated-Gifs&quot;&gt;Animated Gifs&lt;a class=&quot;anchor-link&quot; href=&quot;#Animated-Gifs&quot;&gt; &lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Animated Gifs work, too!&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;![](https://upload.wikimedia.org/wikipedia/commons/7/71/ChessPawnSpecialMoves.gif)&lt;/code&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/7/71/ChessPawnSpecialMoves.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h3 id=&quot;Captions&quot;&gt;Captions&lt;a class=&quot;anchor-link&quot; href=&quot;#Captions&quot;&gt; &lt;/a&gt;&lt;/h3&gt;&lt;p&gt;You can include captions with markdown images like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;![](https://www.fast.ai/images/fastai_paper/show_batch.png &quot;Credit: https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/&quot;)&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&quot;https://www.fast.ai/images/fastai_paper/show_batch.png&quot; alt=&quot;&quot; title=&quot;Credit: https://www.fast.ai/2020/02/13/fastai-A-Layered-API-for-Deep-Learning/&quot; /&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h1 id=&quot;Other-Elements&quot;&gt;Other Elements&lt;a class=&quot;anchor-link&quot; href=&quot;#Other-Elements&quot;&gt; &lt;/a&gt;&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;GitHub-Flavored-Emojis&quot;&gt;GitHub Flavored Emojis&lt;a class=&quot;anchor-link&quot; href=&quot;#GitHub-Flavored-Emojis&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Typing &lt;code&gt;I give this post two :+1:!&lt;/code&gt; will render this:&lt;/p&gt;
-&lt;p&gt;I give this post two :+1:!&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Tweetcards&quot;&gt;Tweetcards&lt;a class=&quot;anchor-link&quot; href=&quot;#Tweetcards&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Typing &lt;code&gt;&amp;gt; twitter: https://twitter.com/jakevdp/status/1204765621767901185?s=20&lt;/code&gt; will render this:
-
-&lt;center&gt;
-    &lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Altair 4.0 is released! &lt;a href=&quot;https://t.co/PCyrIOTcvv&quot;&gt;https://t.co/PCyrIOTcvv&lt;/a&gt;&lt;br /&gt;Try it with:&lt;br /&gt;&lt;br /&gt;  pip install -U altair&lt;br /&gt;&lt;br /&gt;The full list of changes is at &lt;a href=&quot;https://t.co/roXmzcsT58&quot;&gt;https://t.co/roXmzcsT58&lt;/a&gt; ...read on for some highlights. &lt;a href=&quot;https://t.co/vWJ0ZveKbZ&quot;&gt;pic.twitter.com/vWJ0ZveKbZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jake VanderPlas (@jakevdp) &lt;a href=&quot;https://twitter.com/jakevdp/status/1204765621767901185?ref_src=twsrc%5Etfw&quot;&gt;December 11, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;
-&lt;/center&gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Youtube-Videos&quot;&gt;Youtube Videos&lt;a class=&quot;anchor-link&quot; href=&quot;#Youtube-Videos&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Typing &lt;code&gt;&amp;gt; youtube: https://youtu.be/XfoYk_Z5AkI&lt;/code&gt; will render this:
-
-&lt;center&gt;
-    &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XfoYk_Z5AkI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/center&gt;
-&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Boxes-/-Callouts&quot;&gt;Boxes / Callouts&lt;a class=&quot;anchor-link&quot; href=&quot;#Boxes-/-Callouts&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Typing &lt;code&gt;&amp;gt; Warning: There will be no second warning!&lt;/code&gt; will render this:
-&lt;div class=&quot;flash flash-error&quot;&gt;
-    &lt;svg class=&quot;octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-    &lt;strong&gt;Warning: &lt;/strong&gt;There will be no second warning!
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Typing &lt;code&gt;&amp;gt; Important: Pay attention! It's important.&lt;/code&gt; will render this:
-&lt;div class=&quot;flash flash-warn&quot;&gt;
-    &lt;svg class=&quot;octicon octicon-zap&quot; viewBox=&quot;0 0 10 16&quot; version=&quot;1.1&quot; width=&quot;10&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M10 7H6l3-7-9 9h4l-3 7 9-9z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-    &lt;strong&gt;Important: &lt;/strong&gt;Pay attention! It&amp;#8217;s important.
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Typing &lt;code&gt;&amp;gt; Tip: This is my tip.&lt;/code&gt; will render this:
-&lt;div class=&quot;flash flash-success&quot;&gt;
-    &lt;svg class=&quot;octicon octicon-checklist&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M16 8.5l-6 6-3-3L8.5 10l1.5 1.5L14.5 7 16 8.5zM5.7 12.2l.8.8H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h7c.55 0 1 .45 1 1v6.5l-.8-.8c-.39-.39-1.03-.39-1.42 0L5.7 10.8a.996.996 0 000 1.41v-.01zM4 4h5V3H4v1zm0 2h5V5H4v1zm0 2h3V7H4v1zM3 9H2v1h1V9zm0-2H2v1h1V7zm0-2H2v1h1V5zm0-2H2v1h1V3z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-    &lt;strong&gt;Tip: &lt;/strong&gt;This is my tip.
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Typing &lt;code&gt;&amp;gt; Note: Take note of this.&lt;/code&gt; will render this:
-&lt;div class=&quot;flash&quot;&gt;
-    &lt;svg class=&quot;octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-    &lt;strong&gt;Note: &lt;/strong&gt;Take note of this.
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Typing &lt;code&gt;&amp;gt; Note: A doc link to [an example website: fast.ai](https://www.fast.ai/) should also work fine.&lt;/code&gt; will render in the docs:
-&lt;div class=&quot;flash&quot;&gt;
-    &lt;svg class=&quot;octicon octicon-info octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-    &lt;strong&gt;Note: &lt;/strong&gt;A doc link to &lt;a href=&quot;https://www.fast.ai/&quot;&gt;an example website: fast.ai&lt;/a&gt; should also work fine.
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&quot;cell border-box-sizing text_cell rendered&quot;&gt;&lt;div class=&quot;inner_cell&quot;&gt;
-&lt;div class=&quot;text_cell_render border-box-sizing rendered_html&quot;&gt;
-&lt;h2 id=&quot;Footnotes&quot;&gt;Footnotes&lt;a class=&quot;anchor-link&quot; href=&quot;#Footnotes&quot;&gt; &lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can have footnotes in notebooks, however the syntax is different compared to markdown documents. &lt;a href=&quot;https://github.com/fastai/fastpages/blob/master/_fastpages_docs/NOTEBOOK_FOOTNOTES.md&quot;&gt;This guide provides more detail about this syntax&lt;/a&gt;, which looks like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;For example, here is a footnote {% fn 1 %}.
-And another {% fn 2 %}
-{{ 'This is the footnote.' | fndetail: 1 }}
-{{ 'This is the other footnote. You can even have a [link](www.github.com)!' | fndetail: 2 }}&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;For example, here is a footnote &lt;sup id=&quot;fnref-1&quot; class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-&lt;p&gt;And another &lt;sup id=&quot;fnref-2&quot; class=&quot;footnote-ref&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;&lt;div class=&quot;footnotes&quot;&gt;&lt;p id=&quot;fn-1&quot;&gt;1. This is the footnote.&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote footnotes&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-&lt;div class=&quot;footnotes&quot;&gt;&lt;p id=&quot;fn-2&quot;&gt;2. This is the other footnote. You can even have a &lt;a href=&quot;www.github.com&quot;&gt;link&lt;/a&gt;!&lt;a href=&quot;#fnref-2&quot; class=&quot;footnote footnotes&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
-
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://btruhand.github.io/blog/images/chart-preview.png" /><media:content medium="image" url="https://btruhand.github.io/blog/images/chart-preview.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An Example Markdown Post</title><link href="https://btruhand.github.io/blog/markdown/2020/01/14/test-markdown-post.html" rel="alternate" type="text/html" title="An Example Markdown Post" /><published>2020-01-14T00:00:00-06:00</published><updated>2020-01-14T00:00:00-06:00</updated><id>https://btruhand.github.io/blog/markdown/2020/01/14/test-markdown-post</id><content type="html" xml:base="https://btruhand.github.io/blog/markdown/2020/01/14/test-markdown-post.html">&lt;h1 id=&quot;example-markdown-post&quot;&gt;Example Markdown Post&lt;/h1&gt;
-
-&lt;h2 id=&quot;basic-setup&quot;&gt;Basic setup&lt;/h2&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-filename.md&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;filename&lt;/code&gt; is whatever file name you choose, to remind yourself what this post is about. &lt;code class=&quot;highlighter-rouge&quot;&gt;.md&lt;/code&gt; is the file extension for markdown files.&lt;/p&gt;
-
-&lt;p&gt;The first line of the file should start with a single hash character, then a space, then your title. This is how you create a “&lt;em&gt;level 1 heading&lt;/em&gt;” in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line &lt;code class=&quot;highlighter-rouge&quot;&gt;## File names&lt;/code&gt; above.&lt;/p&gt;
-
-&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
-
-&lt;p&gt;You can use &lt;em&gt;italics&lt;/em&gt;, &lt;strong&gt;bold&lt;/strong&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;code font text&lt;/code&gt;, and create &lt;a href=&quot;https://www.markdownguide.org/cheat-sheet/&quot;&gt;links&lt;/a&gt;. Here’s a footnote &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Here’s a horizontal rule:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;p&gt;Here’s a list:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;item 1&lt;/li&gt;
-  &lt;li&gt;item 2&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And a numbered list:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;item 1&lt;/li&gt;
-  &lt;li&gt;item 2&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;boxes-and-stuff&quot;&gt;Boxes and stuff&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This is a quotation&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include alert boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;…and…&lt;/p&gt;
-
-&lt;div class=&quot;Toast&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include info boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/blog/images/logo.png&quot; alt=&quot;&quot; title=&quot;fast.ai's logo&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
-
-&lt;p&gt;You can format text and code per usual&lt;/p&gt;
-
-&lt;p&gt;General preformatted text:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Do a thing
-do_thing()
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Python code and output:&lt;/p&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Prints '2'
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Formatting text as shell commands:&lt;/p&gt;
-
-&lt;div class=&quot;language-shell highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;hello world&quot;&lt;/span&gt;
-./some_script.sh &lt;span class=&quot;nt&quot;&gt;--option&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;value&quot;&lt;/span&gt;
-wget https://example.com/cat_photo1.png
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Formatting text as YAML:&lt;/p&gt;
-
-&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;value&lt;/span&gt;
-&lt;span class=&quot;pi&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;another_key&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;another&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s&quot;&gt;value&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Column 1&lt;/th&gt;
-      &lt;th&gt;Column 2&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;A thing&lt;/td&gt;
-      &lt;td&gt;Another thing&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;tweetcards&quot;&gt;Tweetcards&lt;/h2&gt;
-
-&lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Altair 4.0 is released! &lt;a href=&quot;https://t.co/PCyrIOTcvv&quot;&gt;https://t.co/PCyrIOTcvv&lt;/a&gt;&lt;br /&gt;Try it with:&lt;br /&gt;&lt;br /&gt;  pip install -U altair&lt;br /&gt;&lt;br /&gt;The full list of changes is at &lt;a href=&quot;https://t.co/roXmzcsT58&quot;&gt;https://t.co/roXmzcsT58&lt;/a&gt; ...read on for some highlights. &lt;a href=&quot;https://t.co/vWJ0ZveKbZ&quot;&gt;pic.twitter.com/vWJ0ZveKbZ&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jake VanderPlas (@jakevdp) &lt;a href=&quot;https://twitter.com/jakevdp/status/1204765621767901185?ref_src=twsrc%5Etfw&quot;&gt;December 11, 2019&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;This is the footnote. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">Example Markdown Post</summary></entry><entry><title type="html">Journey Until Now</title><link href="https://btruhand.github.io/blog/2017/journey-until-now" rel="alternate" type="text/html" title="Journey Until Now" /><published>2017-02-04T00:00:00-06:00</published><updated>2017-02-04T00:00:00-06:00</updated><id>https://btruhand.github.io/blog/2017/journey-until-now</id><content type="html" xml:base="https://btruhand.github.io/blog/2017/journey-until-now">&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;I’ll be sticking my best to these guidelines&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">The first time I tried blogging was back in 2017. Like now, back then I had the same thought of “hey why not start blogging, it will be good for experience and maybe it will be helpful for people”. But then I stopped, and here I am again trying to make blog posts. One time I had an interview for a job and the interviewee asked me what do in my personal time to which I said I used to blog, which the interviewee of course asked “why did you stop?” It was a hard question to answer on the spot, because I knew that the truthful answer does not put me in a good spotlight. The reasons why I stopped blogging was…</summary></entry><entry><title type="html">Values and AI</title><link href="https://btruhand.github.io/blog/post/2017/06/16/values-and-AI" rel="alternate" type="text/html" title="Values and AI" /><published>2017-06-16T00:00:00-05:00</published><updated>2017-06-16T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2017/06/16/values-and-AI</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2017/06/16/values-and-AI">&lt;figure&gt;
+&lt;img src=&quot;https://si.wsj.net/public/resources/images/BI-AA979_AI_GR_20150506144558.jpg&quot; /&gt;
+&lt;figcaption&gt;Thinking, thinking, thinking, always thinking&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;intro&quot;&gt;Intro&lt;/h3&gt;
+
+&lt;p&gt;A couple of days ago I read the following article on &lt;a href=&quot;https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/&quot;&gt;AI and jobs&lt;/a&gt;
+. The author, Mr. Kai-Fu Lee goes back a bit telling his tale, a near death experience, continued with regret and then resolving it into a vision for the current
+and upcoming age of AI. In the article he argued that in order for us to co-exist (take not he didn’t say &lt;em&gt;to win&lt;/em&gt;) with AI is for us to create avenues in life    , particularly jobs that takes advantage and relies on our humanity. The specific quality which he propose to be a solution to the job-market-wrecking-AI problem
+is &lt;em&gt;love&lt;/em&gt;. Mr. Lee did mention other qualities which we often think are intrinsically tied to what makes us humans, but the main thing is love. 
+Mr. Lee’s article then made me thinking about values and AI, and I’ve thought of several things. So let’s continue and read them below!&lt;/p&gt;
+
+&lt;h3 id=&quot;the-value-of-data&quot;&gt;The value of data&lt;/h3&gt;
+
+&lt;p&gt;You may have heard by now the wise words “Knowledge is power” (to which I agree). And you may have heard “Data is the new oil”, that is data is the basis of our
+current age, just like oil was in the 18th century. But of course humanity has amassed knowledge and data for so many years, past decades and centuries, though they
+do say most of our amassed data has been created in the past few years. You get the idea though, we’ve been gathering data for many years now and now with the
+advancement of technology the data we have stacked up and gathered that have been left to dust previously are being picked up and consumed. We feed our computers,
+servers, models with data and create products and services out of them. Where previously data was just lying there seemingly dead without much use (aside for a
+select group of entities, like Google which really have the resources and expertise), now our world is inundated with data and so called &lt;i&gt;data-driven decision&lt;/i&gt;.
+Through technology we have managed to extract and find value in data.&lt;/p&gt;
+
+&lt;h3 id=&quot;extending-the-value-of-data-with-ai&quot;&gt;Extending the value of data with AI&lt;/h3&gt;
+
+&lt;p&gt;And then there’s AI, which like Mr. Lee said, really is another piece of technology that consumes and tries to get value out of our data. But it not only extracts
+value out of data, AI also extrapolates value out of our data. It creates models, decisions, predictions, generalizations out of our data and use them on
+complex subjects it may have never seen and which we like to solve or get better at. AI enables things like self-driving cars, better more relevant ads, AlphaGo
+possible. To add to that, with current advances in technology and research AI has really taken off not just in complexity but also speed and availability. AI
+has taken the value of data a step further by enabling the ability to create services and products that really wouldn’t have been able to take off without it
+(think self-driving cars). Though at the same time it has made several of our jobs redundant.&lt;/p&gt;
+
+&lt;h3 id=&quot;extending-the-value-of-ai&quot;&gt;Extending the value of AI?&lt;/h3&gt;
+
+&lt;p&gt;Now that AI has given us so much value, where do we go from here on? How do we keep ourselves relevant in a world where technology and AI has been able to eke out
+value out of data, the resource that is believed to be most crucial in our age, better (arguably) and faster (definitely) than we ourselves can? Mr. Lee’s proposed
+solution is more akin to complementing that rather than extending on it. Rather than trying to come up with a way in which we can possibly do better than AI, or
+add something to AI’s results which it cannot do itself, to him it is better to to work alongside AI and let us be complemented and also to complement it with our
+inherent humanistic qualities.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-problem-is&quot;&gt;The problem is…&lt;/h3&gt;
+
+&lt;p&gt;The idea itself is fine in my opinion, but the execution may not be so simple. I’m pretty sure there are many more people who are far more qualified than me
+to talk about AI and how to solve the possibility of us being runover by AI. But despite the many influential and capable people out there it seems the fear and
+worry has not gone away and no actual implemented solution is on the way. At best it’s because the problem is inherently hard to formulate and to solve in a way
+that can satisfy the vast majority of our world. At worst… it’s because we really don’t know think there are significant value we can gain from our inherent
+humanity.&lt;/p&gt;
+
+&lt;p&gt;Okay I doubt it’s as bad as I purport, but I do think the thought has some merit. At the very least I do think we don’t give enough objective and appreciation
+to our humanistic qualities. For example, I’m sure most if not all of us would agree that a great and caring parent goes a long way in the upbringing of a child and
+their future. A child that is brought up well and with great care probably has less risks to incur mental health problems which may be related to their environment.
+So those kids in the future can be healthier, and less cost is needed to maintain his or her mental health. A great parent also seems likely to enable their child
+to attain greater heights, and thus higher social contribution in the future. These are all valuable things for us and our society and have direct or indirect
+consequence to our economy, but I’m not aware of any widespread economic measurement that takes into account quality of parenthood.&lt;/p&gt;
+
+&lt;p&gt;There are many other humanistic qualities which I am sure we do value in our life, but are not given it’s due appreciation and value in an objective manner.
+Whether that objective quantification or assessment is in terms of monetary value, or recognition, or something else, I do think we are lacking in that aspect.
+This is a problem that is not inherent in AI but in us, in how we see, value and think of life, of ourselves. If we are to complement the value of our AI with
+value inherent in us, then we must be able to value our human capabilities and existence in ourselves and in others.&lt;/p&gt;
+
+&lt;h3 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h3&gt;
+
+&lt;p&gt;I think Mr. Lee’s blueprint, though barebones, is something agreeable. Rather than battling our way through data and AI’s inherent ability to qucikly and accurately
+derive value out of data we should strive to look into ourselves ways in which we can bring about value through our own nature. As AI achieves feats which
+we have previously only associated with humans we would need to branch out to other areas, whether to compete or to co-exist with AI. But branching out would also
+entail our desire and ability to find value in those areas, a problem which I think we, as humans and society, need to solve by ourselves and re-align
+our values.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><category term="[&quot;old-post&quot;, &quot;AI&quot;]" /><summary type="html">Thinking, thinking, thinking, always thinking</summary></entry><entry><title type="html">Balance in life</title><link href="https://btruhand.github.io/blog/post/2017/04/04/balance-in-life" rel="alternate" type="text/html" title="Balance in life" /><published>2017-04-04T00:00:00-05:00</published><updated>2017-04-04T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2017/04/04/balance-in-life</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2017/04/04/balance-in-life">&lt;p&gt;Around 1 year and a month ago I started working in Japan. Perhaps many of you have heard on the harsh conditions of long working hours in Japan and incidents of
+suicide by death and other such depressing stories. Being faced with such a possibility I put myself in a staunch position to maintain a clear distinction between personal
+and work life and not to let one or the other, particularly the work aspect, negatively impact on the other. And of course this is what many of us refer to as work-life
+balance, maintaining an equilibrium between work and personal life. But there’s more to this than simply about work-life balance.&lt;/p&gt;
+
+&lt;p&gt;After establishing my stance on my work-life balance, I started to think about all kinds of balance in life, having realized how important it is in general in our lives.
+As an example, during people’s daily work, we  have a stack of to-do list everyday and sometimes I would need to find the balance between, in
+terms of time spent, working on task A compared to all other tasks. As another example, when we buy products many of us would weight in between the price vs value of
+a service or good. Yet in another example we talk about maintaining a balanced diet for our health. It would seem that balance is quite prevalent in our life.&lt;/p&gt;
+
+&lt;p&gt;A quick skim of balance led me to the believe that balance is important and prevalent in our life, which leads me to the question: how well are we at creating, identifying
+and maintaining balance? I’m asking this not so much on the perspective of human’s innate ability but more so on our surroundings. A lot of our time is spent in improving ourselves
+or just doing a small set of core activities, and there are advices to continue doing so. Just as an example, there’s quite a lot of advices to maintain focus in order to get into
+an Ivy League school, like &lt;a href=&quot;https://blog.prepscholar.com/how-to-get-into-harvard-and-the-ivy-league-by-a-harvard-alum&quot;&gt;here&lt;/a&gt; or &lt;a href=&quot;https://www.quora.com/How-can-I-get-into-an-Ivy-League-college/answer/Arvin-Chang?srid=7d08&quot;&gt;here&lt;/a&gt;.
+On the other hand many of us grew up in an environment in school that exposed us to all kinds of activities by having us take a diverse set of subjects in 12 years.&lt;/p&gt;
+
+&lt;p&gt;Yet again at work and at other times we are asked to focus and present the main points, while in the process of focusing on the main points we are asked to consider alternatives,
+balancing our view points. We’re told to find and focus on the things and people that matter, at the same time we’re told by articles to travel and explore and find something new to do,
+to be adventurous. People want us to be nice, but at the same time we shouldn’t make ourselves exposed to danger. In showing these examples I think there is one thing that we can consider:
+we have a love with balance and at the same time we have a love in focus. And between our love for focus and our love for balance, we have the meta question of how do we balance between the two?&lt;/p&gt;
+
+&lt;p&gt;I might not have a universal answer to the question, but I do believe that a possible answer is that that each of us not only have a common sense of balance but also a personal
+sense. My sense of work-life balance is most likely not the same as Elon Musk, who just made another venture into a brain-computer company and still managing 3 other companies. Your sense
+of good to safety balance is probably not the same as mine as people have different levels of good they are comfortable in displaying. What I think is balanced may not necessarily be
+what you think is balanced. A lot of it really comes down to identifying and being aware of personal value and adjusting as needed. It’s more of a part of the art of living than it is
+the science of living. That’s my take.&lt;/p&gt;
+
+&lt;p&gt;There are certainly a lot of talk about focus, and a lot of talk about balance, and sometimes one will prevail over another out of necessity but there are also times we would need to
+balance between the two. In between the myriad of advices for such situations I just think there is little talk in reconciling the two. Having being so conscious on balancing my own life
+made me realize the relevance of it and how it is so intrinsic to our lives, because if you go over some of the examples I gave a lot of balancing we do is for the sake of maximizing
+or minimizing results, something we humans put a lot of attention into.  The sense of balance you have now may not be the best it can be, but I think if only we can identify them we put
+ourselves in a better position to create a balanced life by simply being aware of it. Cheers to a personally balanced life.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">Around 1 year and a month ago I started working in Japan. Perhaps many of you have heard on the harsh conditions of long working hours in Japan and incidents of suicide by death and other such depressing stories. Being faced with such a possibility I put myself in a staunch position to maintain a clear distinction between personal and work life and not to let one or the other, particularly the work aspect, negatively impact on the other. And of course this is what many of us refer to as work-life balance, maintaining an equilibrium between work and personal life. But there’s more to this than simply about work-life balance.</summary></entry><entry><title type="html">Journey Until Now</title><link href="https://btruhand.github.io/blog/post/2017/02/04:/journey-until-now" rel="alternate" type="text/html" title="Journey Until Now" /><published>2017-02-04T00:00:00-06:00</published><updated>2017-02-04T00:00:00-06:00</updated><id>https://btruhand.github.io/blog/post/2017/02/04:/journey-until-now</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2017/02/04:/journey-until-now">&lt;h1 id=&quot;intro&quot;&gt;Intro&lt;/h1&gt;
 &lt;p&gt;Getting started with this website’s blog, I would really like to quickly go over the journey that I’ve went through until now.
 Since I would be sharing my opinions and thoughts quite often I hope this first post will be able to act as a context of
 how I came to form my thoughts. Also, I think it’s a nice way for me to reach out to you readers personally, to a certain extent.&lt;/p&gt;
