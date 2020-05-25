@@ -58,6 +58,6 @@ As a culmination of what I had learnt I wrote a paper on cryptocurrency and trus
 ### My recommendation to you
 
 If you are an SFU student and you can afford to take this course, take this course. If you happen to find a similar course somewhere else take it. I'm obviously biased,
-and well aware that such a course among software engineers (or perhaps technologists in general) are not favored. I understand, between learning something that can
-have immediate clear gains to your professional and personal life (learning some new language) vs a course like CMNS 815, many would choose the former. Yet I can't
-help to sing praise and accolades for this course and the knowledge and experience I had gained, at the very least due to how thoroughly I enjoyed it.
+and well aware that such my fellow software engineers (or perhaps technologists in general) are not really inclined to take such courses. I understand, between
+learning something that can have immediate clear gains to your professional and personal life (learning some new language) vs a course like CMNS 815, many would choose
+the former. Yet I can't help to recommend this course least because of the knowledge and experience I had gained, and more so due to how I throughly enjoyed it.
