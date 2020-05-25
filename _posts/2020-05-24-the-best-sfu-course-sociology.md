@@ -2,8 +2,9 @@
 layout: post
 description: No I'm not kidding, a sociology course was indeed the best course I took
 title: The best course at SFU was a Sociology course
-categories: education, reflection, SFU
+categories: [education, reflection, SFU]
 permalink: /post/:year/:month/:day/:title
+toc: true
 ---
 
 For my final term at SFU for the Big Data specialization masters program I was at a decision junction between several courses I can take. I was certain of taking an

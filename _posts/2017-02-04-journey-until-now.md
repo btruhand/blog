@@ -2,7 +2,7 @@
 layout: post
 title: Journey Until Now
 categories: old-post
-permalink: /:year/:title
+permalink: /post/:year/:month/:day:/:title
 description: My journey to this day, from beginning, talking about my background and how I came to be the way I am
 toc: true
 ---
