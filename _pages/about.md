@@ -24,7 +24,7 @@ My hobbies and off-work activities are quite basic. I spend my time doing either
 I would say what I do is quite similar to what you probably do, so I hope this gives you the sense that you can connect when reading my posts
 
 <figure class="about_me">
-    <img src="/images/about_me.jpg" alt="a picture of me">
+    <img src="/blog/images/about_me.jpg" alt="a picture of me">
     <figcaption>An image taken during my masters program at Simon Fraser University</figcaption>
 </figure>
 
