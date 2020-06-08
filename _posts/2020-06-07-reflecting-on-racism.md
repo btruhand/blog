@@ -11,7 +11,7 @@ toc: true
 
 In the tragic death of George Floyd and the still ongoing protests as of this writing, I have been thinking and
 reflecting on the issue of racism. While the issue and protest have been triggered within the North American cultural
-context, the angle of my reflection is not restricted to the NA context. Partly because of racism isn't contained within
+context, the angle of my reflection is not restricted to the NA context. Partly because racism isn't contained within
 a particular culture, and also my own lack of understanding of the NA context.
 
 # Why now?
