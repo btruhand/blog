@@ -110,11 +110,9 @@ our emotions with one another.
 
 [^2]: The [book](https://www.penguinrandomhouse.com/books/564299/how-to-be-an-antiracist-by-ibram-x-kendi/) made by Ibram X. Kendi talks specifically about being an `anti-racist`. I haven't gotten to the book myself
 
-[^3]: [A woman lecturing on what seems to be "protesters"](https://www.youtube.com/watch?v=8e1ld1uGpXA) on their destructive tendencies on the properties that a community relies on.
-Meanwhile these "protesters" can only give vain cheers and empty nods
+[^3]: [A woman lecturing on what seems to be "protesters"](https://www.youtube.com/watch?v=8e1ld1uGpXA) on their destructive tendencies on the properties that a community relies on. Meanwhile these "protesters" can only give vain cheers and empty nods
 
-[^4]: [A list of resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcqYzb90*BLtlNH3BbTokzzKkcpKSiQ) if you are interested in understanding racism, particularly in NA context.
-Treat it as something ongoing in your life if you decide to use the resources
+[^4]: [A list of resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcqYzb90*BLtlNH3BbTokzzKkcpKSiQ) if you are interested in understanding racism, particularly in NA context. Treat it as something ongoing in your life if you decide to use the resources
 
 [^5]: An article on [anger and how they can connect us together](https://aeon.co/essays/anger-is-a-valuable-emotion-driving-private-and-public-good)
 
