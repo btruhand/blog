@@ -92,7 +92,7 @@ bring that sense of worth with you.
 
 Sometimes in dealing with others' experience, our mind starts churning. We start to rationalize others' experience try in the name
 of objectivity and critical thinking to break down experience into minute facts, of which is formed through our own understanding.
-In doing so, when our understanding and experience is mismatch with the reality experienced by the other, we are start to question
+In doing so, when our understanding and experience is mismatch with the reality experienced by the other, we start to question
 the legitimacy of their claims. As I underwent reflection for this post, countless times I have done this myself, putting myself
 at the seat and lens of rationality. The progress of science have put a moral (or at least goodness) pedestal for objectivity,
 the analytical mind, the scientist within us.
@@ -111,7 +111,7 @@ our emotions with one another.
 [^2]: The [book](https://www.penguinrandomhouse.com/books/564299/how-to-be-an-antiracist-by-ibram-x-kendi/) made by Ibram X. Kendi talks specifically about being an `anti-racist`. I haven't gotten to the book myself
 
 [^3]: [A woman lecturing on what seems to be "protesters"](https://www.youtube.com/watch?v=8e1ld1uGpXA) on their destructive tendencies on the properties that a community relies on.
-Meanwhile these "protesters" can only give vain cheers and empty nods.
+Meanwhile these "protesters" can only give vain cheers and empty nods
 
 [^4]: [A list of resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcqYzb90*BLtlNH3BbTokzzKkcpKSiQ) if you are interested in understanding racism, particularly in NA context.
 Treat it as something ongoing in your life if you decide to use the resources
