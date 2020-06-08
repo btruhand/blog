@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Reflecting on racism and recent events
-categories: old-post
-permalink: /post/:year/:month/:day:/:title
+categories: [life, society, culture, racism, thoughts]
+permalink: /post/:year/:month/:day/:title
 description: A reflection in recognition of racism in North America
 toc: true
 ---
@@ -79,7 +79,7 @@ Still, it is difficult for me to come to terms morally to the use of violence. I
 terms with being angry as one school drama teacher questioned my ability to be angry; "can you actually be angry for once?"
 Compounded with the possibility and reality[^3], that those who have enacted violence are not necessarily doing so with care for
 others, whether they be the police or protesters, it becomes harder for me to square with the violence. While violence
-force has justified itself throughout history to play a central role in the development of humanity for better or worse, I just don't
+has justified itself throughout history to play a central role in the development of humanity for better or worse, I just don't
 know if this is the time for violence for the better.
 
 # To black readers
