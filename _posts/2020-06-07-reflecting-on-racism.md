@@ -104,7 +104,7 @@ but we are not animals of pure rationality either, having both thoughts and feel
 our hearts and feelings for the compassion of others, as many of us would fail to understand the lived experience, but can still share
 our emotions with one another.
 
-# Resources
+# Footnotes and resources
 
 [^1]: One such man who said to just do something was Tyrone Edwards in this [video](https://www.youtube.com/watch?v=H0gdHA-W5hA)
 
@@ -112,10 +112,10 @@ our emotions with one another.
 
 [^3]: [A woman lecturing on what seems to be "protesters"](https://www.youtube.com/watch?v=8e1ld1uGpXA) on their destructive tendencies on the properties that a community relies on. Meanwhile these "protesters" can only give vain cheers and empty nods
 
-[^4]: [A list of resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcqYzb90*BLtlNH3BbTokzzKkcpKSiQ) if you are interested in understanding racism, particularly in NA context. Treat it as something ongoing in your life if you decide to use the resources
+- [A list of resources](https://docs.google.com/document/d/1BRlF2_zhNe86SGgHa6-VlBO-QgirITwCTugSfKie5Fs/preview?pru=AAABcqYzb90*BLtlNH3BbTokzzKkcpKSiQ) if you are interested in understanding racism, particularly in NA context. Treat it as something ongoing in your life if you decide to use the resources
 
-[^5]: An article on [anger and how they can connect us together](https://aeon.co/essays/anger-is-a-valuable-emotion-driving-private-and-public-good)
+- An article on [anger and how they can connect us together](https://aeon.co/essays/anger-is-a-valuable-emotion-driving-private-and-public-good)
 
-[^6]: [Angee Floyd thriving as a black woman far away from her home](https://www.youtube.com/watch?v=VlsKDIn6ecs), a showcase of the capabilities of black people. I feel like I won't ever be able to do what she did
+- [Angee Floyd thriving as a black woman far away from her home](https://www.youtube.com/watch?v=VlsKDIn6ecs), a showcase of the capabilities of black people. I feel like I won't ever be able to do what she did
 
-[^7]: [Multiple black people feeling safe outside of America](https://www.youtube.com/watch?v=_q4D8wpYaR0). As someone who has lived in Japan I can attest to the feeling of safety in Japan.
+- [Multiple black people feeling safe outside of America](https://www.youtube.com/watch?v=_q4D8wpYaR0). As someone who has lived in Japan I can attest to the feeling of safety in Japan.
