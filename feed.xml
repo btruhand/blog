@@ -1,4 +1,137 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-06-07T22:40:40-05:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand - scattering of thoughts</title><subtitle>Btruhand's blogging outlet</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">Reflecting on racism and recent events</title><link href="https://btruhand.github.io/blog/post/2020/06/07/reflecting-on-racism" rel="alternate" type="text/html" title="Reflecting on racism and recent events" /><published>2020-06-07T00:00:00-05:00</published><updated>2020-06-07T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/06/07/reflecting-on-racism</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/06/07/reflecting-on-racism">&lt;h1 id=&quot;what-is-this-post-about&quot;&gt;What is this post about?&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-07-05T03:37:50-05:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand - scattering of thoughts</title><subtitle>Btruhand's blogging outlet</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">Re-thinking Mocks</title><link href="https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks" rel="alternate" type="text/html" title="Re-thinking Mocks" /><published>2020-07-04T00:00:00-05:00</published><updated>2020-07-04T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks">&lt;p&gt;These days I have mainly been using Java for my professional career (roughly I have been working with Java for a year). I also mainly have been using the
+&lt;a href=&quot;https://docs.spring.io/spring/docs/current/spring-framework-reference/&quot;&gt;Spring framework&lt;/a&gt; along with its additional libraries at work. One of the things that
+I enjoy with Spring is the dependency injection capability that it provides, primarily through the &lt;code class=&quot;highlighter-rouge&quot;&gt;@Autowired&lt;/code&gt; annotation. This quick and easy way to do dependency
+injection is also further compounded in testing benefits as Spring also provides easy and seemless way to obtain these dependencies at test time (&lt;code class=&quot;highlighter-rouge&quot;&gt;@Import&lt;/code&gt; and
+&lt;code class=&quot;highlighter-rouge&quot;&gt;@ContextConfiguration&lt;/code&gt; to name a few) makes testing much easier. I also make a good amount of use &lt;a href=&quot;https://site.mockito.org/&quot;&gt;Mockito&lt;/a&gt; which makes my development
+life much easier through &lt;code class=&quot;highlighter-rouge&quot;&gt;mocks&lt;/code&gt;, and this post is about &lt;code class=&quot;highlighter-rouge&quot;&gt;mocks&lt;/code&gt; and my experience and thoughts on them.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-are-mocks&quot;&gt;What are mocks&lt;/h1&gt;
+
+&lt;p&gt;This question has been covered in a variety of other posts out there, one of which I found most useful to be &lt;a href=&quot;https://martinfowler.com/articles/mocksArentStubs.html&quot;&gt;Martin Fowler’s post&lt;/a&gt;. In the words of Martin Fowler himself:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mocks use behavior verification, where we instead check to see if the order made the correct calls on the warehouse. We do this check by telling the mock what to expect during setup and asking the mock to verify itself during verification&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;At the heart of mocking is behaviour verification, which is the ability to assert what has &lt;strong&gt;happened&lt;/strong&gt; during the execution of a test, and not just what the system
+under test has produced. Martin Fowler made a clear distinction and emphasis on this part which you can read up on his post.&lt;/p&gt;
+
+&lt;h1 id=&quot;quick-example&quot;&gt;Quick example&lt;/h1&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ClassA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nc&quot;&gt;ClassB&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dependency&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;shouldDoFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;nc&quot;&gt;ClassA&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;ClassB&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dependency&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;shouldDoFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;dependency&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;dependency&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;shouldDoFunc&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;shouldDoFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+    &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;shouldDoFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;dependency&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;doFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+        &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ClassB&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;doFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;c1&quot;&gt;// do something&lt;/span&gt;
+    &lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// test code below&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;test_func_whenShouldNotDoFunc_notCallDoFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nc&quot;&gt;ClassB&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;classB&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mock&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;ClassB&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nc&quot;&gt;ClassA&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;classA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ClassA&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;classB&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;classA&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;verify&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;classB&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;never&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()).&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;doFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The above example is extremely contrived but it just barely shows the use case of mocks. The call to the &lt;code class=&quot;highlighter-rouge&quot;&gt;verify&lt;/code&gt; function says that we are trying to verify
+that when &lt;code class=&quot;highlighter-rouge&quot;&gt;shouldDoFunc = false&lt;/code&gt;, we expect that &lt;code class=&quot;highlighter-rouge&quot;&gt;ClassB.doFunc&lt;/code&gt; will not be called.&lt;/p&gt;
+
+&lt;p&gt;The alternative to using mocks above would be to supply an actual instance of &lt;code class=&quot;highlighter-rouge&quot;&gt;ClassB&lt;/code&gt; (not mocked) and check against the &lt;em&gt;results&lt;/em&gt; after calling &lt;code class=&quot;highlighter-rouge&quot;&gt;ClassA.func&lt;/code&gt;.
+Now in the above example no values are being returned from any of the function calls so no returned value can be expected, however often such functions causes
+side-effects. Common side-effects include calling some API that causes some change, changing the environment settings, performing DB changes such as updates, changing
+the state of &lt;code class=&quot;highlighter-rouge&quot;&gt;ClassB&lt;/code&gt; and many more. Such side-effects are testable and verifiable (if there are no side-effects performed by the function I question why the function
+exists).&lt;/p&gt;
+
+&lt;h1 id=&quot;the-positives-of-mocks&quot;&gt;The positives of mocks&lt;/h1&gt;
+
+&lt;p&gt;From my experience thus far using mocks is that it has been beneficial to create tests. Certain testing may require an expensive setup or verification procedure,
+which makes tests run slow but also developed more slowly. An alternative to mocks may include creating fakes or stubs (a separate kind of testing entity), which may
+also create additional development effort to make and also may require its own maintenance. Though a great deal of this benefit comes from the fact that many languages
+have a well-tested and prevalent mocking library.&lt;/p&gt;
+
+&lt;p&gt;Mocks also makes creating truly &lt;code class=&quot;highlighter-rouge&quot;&gt;unit&lt;/code&gt; tests easier, and by unit here I mean tests that only put a single class/object under test. Mocks enable me to put the focus
+and attention of tests on the specific unit under test and not have to worry about the other interacting pieces. In the example above, the test is made deliberately
+about &lt;code class=&quot;highlighter-rouge&quot;&gt;ClassA.func&lt;/code&gt; behaviour when it is in a certain state. In more complex objects under test, this makes some desired fine-grained testing much more approachable
+and manageable.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-negatives-of-mocks&quot;&gt;The negatives of mocks&lt;/h1&gt;
+
+&lt;p&gt;The biggest drawback using mocking is it requires whitebox testing, in order to verify using mocks we need to know what functions are being called, which essentially
+bears down to knowing some level of detail about the implementation of the unit under test. Nowadays I think of this as &lt;em&gt;reflection for testing&lt;/em&gt;. Reflection is the
+ability to inspect programming constructs at runtime of some code within the code itself. Often this involves passing in names of functions or fields in the form of
+strings to specialized reflection APIs. Since access is made via strings, IDEs won’t help you during refactoring which makes mistakes during changes in the codebase
+harder to detect. Thankfully a testing is one of the tools we have to safeguard ourselves against our programming mistakes, until the tests start to fail us.&lt;/p&gt;
+
+&lt;p&gt;Using reflection capabilities requires the programmer to have clear knowledge about what is and isn’t present and bake that knowledge statically into the code and
+it is the same case when we use mocks. Now libraries like &lt;code class=&quot;highlighter-rouge&quot;&gt;Mockito&lt;/code&gt; does enable the use of refactoring through IDE unlike reflection, but mocking doesn’t easily
+allow us to change the tests when the dependency calls in the code under test changes. This creates a mismatch between expectation and reality. For example, if in
+&lt;code class=&quot;highlighter-rouge&quot;&gt;ClassA&lt;/code&gt; above we change the call of &lt;code class=&quot;highlighter-rouge&quot;&gt;doFunc&lt;/code&gt; to another function &lt;code class=&quot;highlighter-rouge&quot;&gt;doFunc2&lt;/code&gt;, the test would still pass but for very much the wrong reason! The reality is that
+&lt;code class=&quot;highlighter-rouge&quot;&gt;doFunc&lt;/code&gt; is no longer a dependency call being made, but the test still expects it as a call to be made and it just so happens the test was verifying that no calls
+were to be made. The following test would fail:&lt;/p&gt;
+
+&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;test_func_whenShouldDoFunc_callDoFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nc&quot;&gt;ClassB&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;classB&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mock&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nc&quot;&gt;ClassB&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;nc&quot;&gt;ClassA&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;classA&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;ClassA&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;classB&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;n&quot;&gt;classA&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;func&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;verify&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;classB&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;once&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;()).&lt;/span&gt;&lt;span class=&quot;na&quot;&gt;doFunc&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;o&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;but now the test fails for the wrong reason! The test will fail because the test is expecting the wrong thing, not because the unit under test is behaving
+incorrectly. This is test maintenance drag. Martin Fowler calls this the coupling of implementation and testing.&lt;/p&gt;
+
+&lt;h1 id=&quot;an-alternative-for-mocking&quot;&gt;An alternative for mocking&lt;/h1&gt;
+
+&lt;p&gt;One of the compelling alternatives to mocking is by supplying functions as parameters to the unit under test instead of whole object dependencies. The ability to pass
+functions as parameters is called &lt;a href=&quot;https://en.wikipedia.org/wiki/First-class_function&quot;&gt;First-class function&lt;/a&gt;. Consider this example in pseudo-Javascript&lt;/p&gt;
+
+&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;funcToTest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;dependentFunction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;some&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;condition&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;dependentFunction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;test_funcToTest_whenConditionNotMet_doNotCallDependentFunction&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;// do something to cause condition to not be met&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;counter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;funcToTest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;-&amp;gt;&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;counter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;counter&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;k&quot;&gt;throw&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;TestFailed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The passed in &lt;code class=&quot;highlighter-rouge&quot;&gt;dependentFunction&lt;/code&gt; is simply a function passed as a parameter that is called when some condition is met inside &lt;code class=&quot;highlighter-rouge&quot;&gt;funcToTest&lt;/code&gt;. Notice how in the test we
+are also verifying the behaviour of &lt;code class=&quot;highlighter-rouge&quot;&gt;funcToTest&lt;/code&gt; under some condition, similar to the example with &lt;code class=&quot;highlighter-rouge&quot;&gt;ClassA&lt;/code&gt;. In both the test using mocks and first-class function we
+see that behaviour is being verified, and this should come as no surprise. We can think of objects as instances of namespaces/groupings for functions (with the ability
+to maintain and collect some form of internal state) and so when we pass an object as a dependency it can be seen as passing in a collection of functions. The
+difference is that when we use mocks we have to explicitly mention the dependent function we are interested in, while with first-class functions the dependent function
+is stipulated in formal syntax (scratching off the fact that it’s possible to call functions without their parameters in Javascript). With mocks tests can fail/pass
+for reasons of a mismatch between expectation and reality, with first-class functions that possibility is greatly diminished and if it happens is likely the
+programmer’s mistake.&lt;/p&gt;
+
+&lt;p&gt;However in reality I have not used first-class functions as an alternative to mocks at all. Much the reason is because it is much easier to work with objects and
+mocks in Java. Though Java does have lambda functions and the &lt;a href=&quot;https://docs.oracle.com/javase/8/docs/api/java/lang/FunctionalInterface.html&quot;&gt;@FunctionalInterface&lt;/a&gt;
+it is not that fluid to create classes and methods that take in first-class functions all the time. But this is surely a technique that I would explore and be more
+conscious of in the future.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">These days I have mainly been using Java for my professional career (roughly I have been working with Java for a year). I also mainly have been using the Spring framework along with its additional libraries at work. One of the things that I enjoy with Spring is the dependency injection capability that it provides, primarily through the @Autowired annotation. This quick and easy way to do dependency injection is also further compounded in testing benefits as Spring also provides easy and seemless way to obtain these dependencies at test time (@Import and @ContextConfiguration to name a few) makes testing much easier. I also make a good amount of use Mockito which makes my development life much easier through mocks, and this post is about mocks and my experience and thoughts on them.</summary></entry><entry><title type="html">Reflecting on racism and recent events</title><link href="https://btruhand.github.io/blog/post/2020/06/07/reflecting-on-racism" rel="alternate" type="text/html" title="Reflecting on racism and recent events" /><published>2020-06-07T00:00:00-05:00</published><updated>2020-06-07T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/06/07/reflecting-on-racism</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/06/07/reflecting-on-racism">&lt;h1 id=&quot;what-is-this-post-about&quot;&gt;What is this post about?&lt;/h1&gt;
 
 &lt;p&gt;In the tragic death of George Floyd and the still ongoing protests as of this writing, I have been thinking and
 reflecting on the issue of racism. While the issue and protest have been triggered within the North American cultural
