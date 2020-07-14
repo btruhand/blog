@@ -23,10 +23,10 @@ go over my experiences and thoughts on my role as a mentor
 
 # The first mentee
 
-Six months into my first professional full-time career as a software engineer, I was asked to mentor a new colleague. By standards of total working experience this
+I was asked to mentor a new colleague six months into my first professional full-time career as a software engineer. By standards of total working experience this
 colleague was actually more senior than me, but I just so happen to have worked in the company sooner than him. This mentee was also quite adept in his tech
-skills so aside from a few pointers about the team dynamics, projects, system overview I can't actually remember any specific piece of technical knowledge that I
-felt I was able to impart. Actually I remembered several times where I was surprised with what he showed me, one of them was a specific setup that he had for the
+skills, so aside from a few pointers about the team dynamics, projects, system overview I can't actually remember any specific piece of technical knowledge that I
+felt I was able to impart. Actually I remembered several times where I was surprised with what he showed me, for example a specific setup that he had for the
 terminal-based text editor Vim. I have no shame in saying that I actually learned some things from my mentee.
 
 My relationship with this mentee was more akin to colleague buddies. We were both close in age and was very techno-optimistic (I'm less techno-optimistic now) and
@@ -61,8 +61,8 @@ at times by my behaviour too.
 
 # The third mentee
 
-The third mentee is more recent. This mentee in terms of technical skills is somewhere in between the first and second mentee, not too experienced but not a complete
-blank slate. A big difference is that I have personally grown with regards to my technical skills and also outlook on tech. I've refined my thoughts and experience
+The third mentee is more recent. In terms of technical skills this mentee is somewhere in between the first and second mentee, still inexperienced overall but not a
+blank slate. This time I have personally grown with regards to my technical skills from my time with my first and second mentee. I've refined my thoughts and experience
 a bit more and had more time to polish it. I still hold some strong opinions regarding particular positions related to the software craft, but I think I can say
 that I am more flexible than before.
 
@@ -76,7 +76,7 @@ agreed, and tried out my solution, made some unit tests and it seemed fine, unti
 incorrect assumptions in my solution, and my mentee's simpler solution would not have run to the same issue as mine. To be honest it did feel bad that not only was I
 wrong but also I led my mentee to an incorrect solution, but am glad that overall I managed to resolve everything together with my mentee.
 
-# Rounding up my experience
+# Rounding up my experience so far
 
 Reflecting on my mentorship experiences so far here are some things that I have taken away:
 
@@ -87,7 +87,7 @@ and be open to the need for growing themselves
 3. Related to learning, I learned and am reminded that humility is so important, because we won't get everything right. We need to learn with humility and open to admit
 our mistakes
 
-To finish things off, there is a proverbial quote which I'm not even sure where it comes from, but it goes like this:
+To finish things off, there is a proverbial quote I like to say that goes like this (though I'm not sure where of its origins):
 
 > Above the sky, there is another sky
 
