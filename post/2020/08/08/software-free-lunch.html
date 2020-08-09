@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Challenging Technology’s Social Free Lunch | btruhand - scattering of thoughts</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Challenging Technology’s Social Free Lunch" />
+<meta name="author" content="btruhand" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Talking about how technology’s social good is not an absolute and how we should be more cognizant of it" />
+<meta property="og:description" content="Talking about how technology’s social good is not an absolute and how we should be more cognizant of it" />
+<link rel="canonical" href="https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch" />
+<meta property="og:url" content="https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch" />
+<meta property="og:site_name" content="btruhand - scattering of thoughts" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-08-08T00:00:00-05:00" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"btruhand"},"description":"Talking about how technology’s social good is not an absolute and how we should be more cognizant of it","@type":"BlogPosting","headline":"Challenging Technology’s Social Free Lunch","url":"https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch","datePublished":"2020-08-08T00:00:00-05:00","dateModified":"2020-08-08T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://btruhand.github.io/blog/feed.xml" title="btruhand - scattering of thoughts" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>Challenging Technology’s Social Free Lunch | btruhand - scattering of thoughts</title>
+<meta name="generator" content="Jekyll v4.0.0" />
+<meta property="og:title" content="Challenging Technology’s Social Free Lunch" />
+<meta name="author" content="btruhand" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Talking about how technology’s social good is not an absolute and how we should be more cognizant of it" />
+<meta property="og:description" content="Talking about how technology’s social good is not an absolute and how we should be more cognizant of it" />
+<link rel="canonical" href="https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch" />
+<meta property="og:url" content="https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch" />
+<meta property="og:site_name" content="btruhand - scattering of thoughts" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2020-08-08T00:00:00-05:00" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"btruhand"},"description":"Talking about how technology’s social good is not an absolute and how we should be more cognizant of it","@type":"BlogPosting","headline":"Challenging Technology’s Social Free Lunch","url":"https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch","datePublished":"2020-08-08T00:00:00-05:00","dateModified":"2020-08-08T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/08/08/software-free-lunch"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://btruhand.github.io/blog/feed.xml" title="btruhand - scattering of thoughts" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous"></script>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement( document.body, {
+        delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "[%", right: "%]", display: true},
+            {left: "$", right: "$", display: false}
+        ]}
+        );
+    });
+    </script>
+
+
+<script>
+function wrap_img(fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
+        var elements = document.querySelectorAll(".post img");
+        Array.prototype.forEach.call(elements, function(el, i) {
+            if (el.getAttribute("title") && (el.className != "emoji")) {
+                const caption = document.createElement('figcaption');
+                var node = document.createTextNode(el.getAttribute("title"));
+                caption.appendChild(node);
+                const wrapper = document.createElement('figure');
+                wrapper.className = 'image';
+                el.parentNode.insertBefore(wrapper, el);
+                el.parentNode.removeChild(el);
+                wrapper.appendChild(el);
+                wrapper.appendChild(caption);
+            }
+        });
+    } else { document.addEventListener('DOMContentLoaded', fn); }
+}
+window.onload = wrap_img;
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function(){
+    // add link icon to anchor tags
+    var elem = document.querySelectorAll(".anchor-link")
+    elem.forEach(e => (e.innerHTML = '<i class="fas fa-link fa-xs"></i>'));
+    });
+</script>
+</head><body><header class="site-header">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/blog/">btruhand - scattering of thoughts</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/blog/about/">About</a><a class="page-link" href="/blog/search/">Search</a><a class="page-link" href="/blog/categories/">Tags</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Challenging Technology&#39;s Social Free Lunch</h1><p class="page-description">Talking about how technology's social good is not an absolute and how we should be more cognizant of it</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-08-08T00:00:00-05:00" itemprop="datePublished">
+        Aug 8, 2020
+      </time>
+       • <span class="read-time" title="Estimated read time">
+    
+    
+      5 min read
+    
+</span></p>
+
+    
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
+      
+        <a class="category-tags-link" href="/blog/categories/#technology">technology</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/blog/categories/#society">society</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/blog/categories/#reflection">reflection</a>
+        
+      
+      </p>
+    
+
+    </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <ul class="section-nav">
+<li class="toc-entry toc-h1"><a href="#why-am-i-thinking-about-this-now">Why am I thinking about this now?</a></li>
+<li class="toc-entry toc-h1"><a href="#acknowledging-that-lunch-has-to-be-paid">Acknowledging that lunch has to be paid</a></li>
+</ul><p>No, this blog post is not about how many software companies (and I think more and more in general) provide food budgets or cater free lunch or dinner to their workers. The <code class="highlighter-rouge">free lunch</code> I mean here is an assumed and taken for granted property that technology has. Particularly a belief in technology as inevitably driving positive social progress and change.</p>
+
+<p>The belief that technology deterministically drives social progress (and implicitly social good or bad) has a name: <a href="https://en.wikipedia.org/wiki/Technological_determinism">technological determinism</a></p>
+
+<p>I don’t think this view is held explicitly, but I do think at the corporate level there is definitely a sense that progress in technology is almost always contributing imore positively to the social good than negatively. At the very least we get that sense when we see the headlines regarding technology startups (often computer software/hardware related companies) are seen as the next greatest thing. Also how this optimism is priced in to their business valuation, and how they are marketed by the founders themselves when they pitch their companies. Some examples would be:</p>
+
+<ul>
+  <li><a href="https://www.cnn.com/videos/business/2020/02/10/clearview-ai-facial-recognition-orig.cnn-business">Clearview AI founder asserting that his company is there for better law enforcement</a></li>
+  <li><a href="http://css.umich.edu/publication/beyond-meats-beyond-burger-life-cycle-assessment-detailed-comparison-between-plant-based">Beyond Meat sponsoring a study to their product’s environment impact</a></li>
+</ul>
+
+<h1 id="why-am-i-thinking-about-this-now">
+<a class="anchor" href="#why-am-i-thinking-about-this-now" aria-hidden="true"><span class="octicon octicon-link"></span></a>Why am I thinking about this now?</h1>
+
+<p>When I decided to go to university to study computer science my brother asked me, “why do you want to study computer science?” Back then I did not have any background in computer science, software or programming but I was quite decent in mathematics and I only know roughly that I computer science is related to math. I’ve also been a heavy user of computer throughout my life, so studying in computer science was a bit of a whimsical choice on my part. So I could only answer with “well I think it would be great to help people through software and computers” to which my brother responded with “But why do it through software and computer?” and there was no immediate reason that pops up in my mind.</p>
+
+<p>As an avid computer user, computers have been tremendously useful and beneficial throughout my life. Never have I really thought of the negative implications of computers and software (aside from my mum yelling at me for using the computer too much). As I become a software engineer I felt my optimism towards technology (software specifically) is further magnified. But we’ve seen how more recent stories, government bodies, social groups, and even the technologists themselves have become more critical towards technology’s social effect. They have started to not buy in to the social free lunch of technologies as much.</p>
+
+<p>When I went to <a href="https://dev.to/codeland">DEV’s CodeLand 2020</a>, there was a talk titled <code class="highlighter-rouge">The Cost of Data</code> by Vaidehi Joshi (you can CTRL+F to find it). Vaidehi gave a talk about how running your code on servers will lead to the use of electricity, which is often still generated by non-renewable energy sources. She went further and talked about the clean energy initiatives by top public cloud providers namely Amazon, Google and Microsoft. When the host and Vaidehi interacted after the talk, the host said: “The world of data and the world of climate change seems so far apart”. As software engineers I feel the same way, though I am intimately related to the creation of software and technology, its impact and its relations to the world around me can often elude me. While I focus in creating a software for a particular purpose, and often for what I believe as a good cause and purpose, I do not necessarily know and understand the full scope of the impact of the technology that I have created.</p>
+
+<p>This mismatch between between an intimacy with creation and intimacy with effect is really the reason why I made this blog post. For this blog post I just want to create a more explicit awareness.</p>
+
+<h1 id="acknowledging-that-lunch-has-to-be-paid">
+<a class="anchor" href="#acknowledging-that-lunch-has-to-be-paid" aria-hidden="true"><span class="octicon octicon-link"></span></a>Acknowledging that lunch has to be paid</h1>
+
+<p>The skepticism towards technology is now more felt by me than ever before. Social progress and good is not so immediate and free anymore and efforts should be taken in order for the lunch to be properly given out. As technologists that create the technology I do think that I and many others are at the unique position to consider the kind of lunch that we want.</p>
+
+<p>At the same time I acknowledge that it is hard to do. Not just in mental capacity and knowledge, but also in execution. Many of us work for a company or a boss that has set upon us goals and visions that may constrain what we can do. We may not feel that we are at the right place to make these high-level decisions of social impact, which may very well affect the business. Perhaps we feel like speaking out our concerns will jeopardize our job and career.</p>
+
+<p>But at the end of the day someone will need to pay for the lunch. Someone has to put effort into creating a meaningful and desired social effect. I think it would be ludicrous for our stakeholders to bear the implicit costs of the products that we make. Imagine a grocery store that asks you to pay an explicit fee for the potential health complications you may contract from the ingredients they sell! Ludicrous I’d say. While I don’t think that technologists such as me has all the answers, and definitely not going to be the only one to be involved in the process, I do think we need to be more aware of it due to our unique position. Which I hope will translate to a more active participation in the construction of the desired social affects of the technologies that we build.</p>
+
+<p>In the end, there’s really no free lunch.</p>
+
+  </div><a class="u-url" href="/blog/post/2020/08/08/software-free-lunch" hidden></a>
+</article>
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/blog/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col">
+        <p class="feed-subscribe">
+          <a href="/blog/feed.xml">
+            <svg class="svg-icon orange">
+              <use xlink:href="/blog/assets/minima-social-icons.svg#rss"></use>
+            </svg><span>Subscribe</span>
+          </a>
+        </p>
+        <ul class="contact-list">
+          <li class="p-name">btruhand</li>
+          <li><a class="u-email" href="mailto:btruhand@gmail.com">btruhand@gmail.com</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p>Btruhand&#39;s blogging outlet, ranging from technical writeups to social opions</p>
+      </div>
+    </div>
+
+    <div class="social-links"><ul class="social-media-list"><li><a rel="me" href="https://github.com/btruhand" title="btruhand"><svg class="svg-icon grey"><use xlink:href="/blog/assets/minima-social-icons.svg#github"></use></svg></a></li><li><a rel="me" href="https://www.linkedin.com/in/btara-truhandarien" title="btara-truhandarien"><svg class="svg-icon grey"><use xlink:href="/blog/assets/minima-social-icons.svg#linkedin"></use></svg></a></li></ul>
+</div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
