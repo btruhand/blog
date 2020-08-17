@@ -1,0 +1,47 @@
+---
+layout: categories
+permalink: /recently-i-learned/
+title: RIL
+search_exclude: true
+---
+
+{% if site.categories.size > 0 %}
+<h2>Recently I Learned</h2>
+
+<p>
+  A collection of posts regarding things that I have learnt. The title reflects the fact that I don't always make the
+  posts
+  immediately after I have learnt something. As usual it covers both technical and non-technical matters
+</p>
+
+{% assign categories = "" | split:"" %}
+{% for post in site.posts %}
+{% if post.ril %}
+{% for c in post.categories %}
+{% assign categories = categories | push: c %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+{% assign categories = categories | uniq | sort_natural %}
+
+<ul>
+  {% for category in categories %}
+  <li><a href="#{{ category }}">{{ category }}</a></li>
+  {% endfor %}
+</ul>
+
+{% for category in categories %}
+<h3 id="{{ category }}"><i class="fas fa-tags category-tags-icon"></i></i> {{ category }}</h3>
+<a name="{{ category | slugize }}"></a>
+{% for post in site.categories[category] %}
+{% if post.hide != true and post.ril %}
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<article class="archive-item">
+  <p class="post-meta post-meta-title"><a class="page-meta" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> •
+    {{ post.date | date: date_format }}</p>
+</article>
+{% endif %}
+{% endfor %}
+{% endfor %}
+
+{% endif %}
