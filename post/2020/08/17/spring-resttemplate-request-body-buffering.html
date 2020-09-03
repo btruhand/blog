@@ -4,36 +4,36 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:card" content="summary" /><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Request Body Buffering With Spring’s RestTemplate | btruhand - scattering of thoughts</title>
+<title>RIL - Request Body Buffering With Spring’s RestTemplate | btruhand - scattering of thoughts</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Request Body Buffering With Spring’s RestTemplate" />
+<meta property="og:title" content="RIL - Request Body Buffering With Spring’s RestTemplate" />
 <meta name="author" content="btruhand" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors" />
 <meta property="og:description" content="Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors" />
-<link rel="canonical" href="https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy" />
-<meta property="og:url" content="https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy" />
+<link rel="canonical" href="https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering" />
+<meta property="og:url" content="https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering" />
 <meta property="og:site_name" content="btruhand - scattering of thoughts" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-08-17T00:00:00-05:00" />
 <script type="application/ld+json">
-{"author":{"@type":"Person","name":"btruhand"},"description":"Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors","@type":"BlogPosting","headline":"Request Body Buffering With Spring’s RestTemplate","url":"https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy","datePublished":"2020-08-17T00:00:00-05:00","dateModified":"2020-08-17T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy"},"@context":"https://schema.org"}</script>
+{"author":{"@type":"Person","name":"btruhand"},"description":"Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors","@type":"BlogPosting","headline":"RIL - Request Body Buffering With Spring’s RestTemplate","url":"https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering","datePublished":"2020-08-17T00:00:00-05:00","dateModified":"2020-08-17T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://btruhand.github.io/blog/feed.xml" title="btruhand - scattering of thoughts" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Request Body Buffering With Spring’s RestTemplate | btruhand - scattering of thoughts</title>
+<title>RIL - Request Body Buffering With Spring’s RestTemplate | btruhand - scattering of thoughts</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Request Body Buffering With Spring’s RestTemplate" />
+<meta property="og:title" content="RIL - Request Body Buffering With Spring’s RestTemplate" />
 <meta name="author" content="btruhand" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors" />
 <meta property="og:description" content="Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors" />
-<link rel="canonical" href="https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy" />
-<meta property="og:url" content="https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy" />
+<link rel="canonical" href="https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering" />
+<meta property="og:url" content="https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering" />
 <meta property="og:site_name" content="btruhand - scattering of thoughts" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-08-17T00:00:00-05:00" />
 <script type="application/ld+json">
-{"author":{"@type":"Person","name":"btruhand"},"description":"Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors","@type":"BlogPosting","headline":"Request Body Buffering With Spring’s RestTemplate","url":"https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy","datePublished":"2020-08-17T00:00:00-05:00","dateModified":"2020-08-17T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/08/17/software-free-lunch-copy"},"@context":"https://schema.org"}</script>
+{"author":{"@type":"Person","name":"btruhand"},"description":"Learning that Spring’s RestTemplate buffers request body under certain situations, which leads to unexpected errors","@type":"BlogPosting","headline":"RIL - Request Body Buffering With Spring’s RestTemplate","url":"https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering","datePublished":"2020-08-17T00:00:00-05:00","dateModified":"2020-08-17T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/08/17/spring-resttemplate-request-body-buffering"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -105,7 +105,7 @@ window.onload = wrap_img;
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Request Body Buffering With Spring&#39;s RestTemplate</h1><p class="page-description">Learning that Spring's RestTemplate buffers request body under certain situations, which leads to unexpected errors</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-08-17T00:00:00-05:00" itemprop="datePublished">
+    <h1 class="post-title p-name" itemprop="name headline">RIL - Request Body Buffering With Spring&#39;s RestTemplate</h1><p class="page-description">Learning that Spring's RestTemplate buffers request body under certain situations, which leads to unexpected errors</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-08-17T00:00:00-05:00" itemprop="datePublished">
         Aug 17, 2020
       </time>
        • <span class="read-time" title="Estimated read time">
@@ -188,7 +188,7 @@ window.onload = wrap_img;
 
 <p>Well the fix is actually quite simple, I just built the <code class="highlighter-rouge">RestTemplate</code> without the configured <code class="highlighter-rouge">RestTemplateBuilder</code> provided and everything is fine! Well… in the end I decided to move the application to use <a href="https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/web/reactive/function/client/WebClient.html">WebClient</a> instead. Not only it is the suggested API to use now, thus am building for a future proof application, I would still be able to log requests without having to be forced to buffer the request body. Though if I want to log the request body programmatically, I would still be required to buffer the request body, but that’s a separate issue for the future.</p>
 
-  </div><a class="u-url" href="/blog/post/2020/08/17/software-free-lunch-copy" hidden></a>
+  </div><a class="u-url" href="/blog/post/2020/08/17/spring-resttemplate-request-body-buffering" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
