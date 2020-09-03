@@ -1,7 +1,7 @@
 ---
 layout: post
 description: Learning that Spring's RestTemplate buffers request body under certain situations, which leads to unexpected errors
-title: Request Body Buffering With Spring's RestTemplate
+title: RIL - Request Body Buffering With Spring's RestTemplate
 categories: [technology, java, spring, springboot]
 permalink: /post/:year/:month/:day/:title
 ril: true
