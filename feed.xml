@@ -1,4 +1,72 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-11-23T22:18:06-06:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand - scattering of thoughts</title><subtitle>Btruhand's blogging outlet, ranging from technical writeups to social opions</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">RIL - Financial Investing in the Market</title><link href="https://btruhand.github.io/blog/post/2020/09/03/learning-financial-investment" rel="alternate" type="text/html" title="RIL - Financial Investing in the Market" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/09/03/learning-financial-investment</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/09/03/learning-financial-investment">&lt;figure&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2020-12-02T22:41:45-06:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand - scattering of thoughts</title><subtitle>Btruhand's blogging outlet, ranging from technical writeups to social opions</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">Job Search In A Pandemic, Part 1</title><link href="https://btruhand.github.io/blog/post/2020/12/02/job-search-in-pandemic-1" rel="alternate" type="text/html" title="Job Search In A Pandemic, Part 1" /><published>2020-12-02T00:00:00-06:00</published><updated>2020-12-02T00:00:00-06:00</updated><id>https://btruhand.github.io/blog/post/2020/12/02/job-search-in-pandemic-1</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/12/02/job-search-in-pandemic-1">&lt;p&gt;Recently I have just transitioned to a new job position (2 months ago from the date of this post) and the experience of the search served to be a valuable feedback for me. Now job search is not something I look forward to and doing it in a pandemic does not make me more enthusiastic. But due to personal reasons my decision to move to a new job was already set in stone pandemic or otherwise. I am sure I am not the only one that have been doing job searches during these hard times, so I feel my experience may bring some value to those that want to or still are job searching.&lt;/p&gt;
+
+&lt;h1 id=&quot;background-and-timeline&quot;&gt;Background and timeline&lt;/h1&gt;
+
+&lt;p&gt;For background I was applying software/data engineering jobs in Toronto, Canada when I was still in Vancouver, Canada. I finished my Masters program on early April and I was targeting for a job position by end of August, which is when I planned to move to Toronto. During my job search I was working as a software engineer for a company that knows about my moving plans. Due to situation I was mostly mass applying to all kinds of software engineering jobs, though my specialty and expertise lies in backend engineering. Here is my job search timeline:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Started applying for jobs mid April to early May and then stopped because of a combination of a lack of motivation, jobs that match my preferences and feeling that it was a bit too far from August.&lt;/li&gt;
+  &lt;li&gt;Restarted looking for jobs early June, this continued up to the third week of August. Applied almost daily, 1 to 3 applications&lt;/li&gt;
+  &lt;li&gt;By early july only a handful (around 5) of recruiters/companies have contacted me back. Phone call interviews did not go well. Decided to introspect what kind of jobs I really want and the value I can bring forth as an engineer&lt;/li&gt;
+  &lt;li&gt;In late July got a phone call interview for a node.js developer position. Flunked that one, used it as an opportunity to learn&lt;/li&gt;
+  &lt;li&gt;Got a phone interview for my current company in early August, and managed to get past. Interview with management a week after, used the time to read up on company further and studied several materials&lt;/li&gt;
+  &lt;li&gt;Passed interview with management and recruiter was able to put me for the technical interview with the team on the next day.&lt;/li&gt;
+  &lt;li&gt;Technical interview went well, but with some hiccups. Ended with an offer that I took&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The rest of this blog post will be structured following the timeline I laid out above as each one has a different story to tell. Since it’s quite long I will break the blog post to two parts. Link for the second part will be added on later&lt;/p&gt;
+
+&lt;h1 id=&quot;timeline-1&quot;&gt;Timeline #1&lt;/h1&gt;
+
+&lt;p&gt;In mid April I was just finishing up my masters studies. Not wanting to waste time I immediately started to look for job openings. I decided to change some of the formatting of my resume to what I think is cleaner and better aligned to my goal of finding a software engineering job. I primarily used Indeed and LinkedIn for my job search and my searches were honed in to a full time job for software/data engineering positions. I’ve never really worked on a conctractual basis so I wasn’t sure if I would like that, and with the pandemic going on I wanted to find something that would be long lasting for a sense of security.&lt;/p&gt;
+
+&lt;p&gt;There isn’t much that happened during this period. I immediately noticed that many job positions were looking for more of a full-stack engineer and I really wanted to focus on backend. But since I do have a bit of frontend understanding (nothing modern or advanced) I soon decided to just apply to those that demanded full-stack capabilities, and even some that are purely frontend. Surely it is better to try and apply rather than not at all (right?). Of course, simply increasing the breadth of my applications did not mean it generated any positive results. Most of the applications I made were not receiving any replies, and if they were replied it was a rejection. Some of the reasons I came up for myself:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The employers weren’t interested in my application (this is likely the case for various reasons)&lt;/li&gt;
+  &lt;li&gt;I was quite open in stating that I was looking for a job starting at the soonest on August/September and perhaps it didn’t fit with the employers timeframe&lt;/li&gt;
+  &lt;li&gt;Some wild theory that companies weren’t actually looking to hire but just scouting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While I never really know the reason, it did leave me feeling a bit dejected. Nearing May, I got a phone call from the employer that I worked for during my co-op  wondering if I can come to help them on their projects. I took the offer and became busy with work and left job search on the side thinking that it may be better to try and apply another time.&lt;/p&gt;
+
+&lt;h1 id=&quot;timeline-2&quot;&gt;Timeline #2&lt;/h1&gt;
+
+&lt;p&gt;In May most of my time was taken up by work and just spending my off-time relaxing by picking up some Switch games that I have neglected. When June arrived I noticed that I haven’t been looking for jobs ever since I stopped. There is only 3 months left until I move to Toronto and that felt too close comfort. It’s actually a bit funny thinking back on how a month’s difference makes my perception of time availability turn 180 degrees, from “I have time” to “I don’t have time”.&lt;/p&gt;
+
+&lt;p&gt;Trying to improve from my previous attempts at applications I decided to look back to my resume and cover letter once more. Some of the things that I did:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I noticed some inconsistencies in formatting and some grammatical improvements to be made in my resume&lt;/li&gt;
+  &lt;li&gt;I put more emphasis on the job experiences that I wanted to highlight and be proud of by reordering them and using active words&lt;/li&gt;
+  &lt;li&gt;I created several copies of my resume, only differing in the job title that I wanted to present myself as depending on the application&lt;/li&gt;
+  &lt;li&gt;I decided to create a standard cover letter resume&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You would think that one of the things that I would have done was to have a connection review my resume in the list above, but as you there is no mention of it. Why? The reason is simple, I was too afraid to ask it to be critiqued by another set of eyes. Honestly, I should have sought someone to critique it for me, but I was simply too scared at the thought of being shot down, getting told that what I have won’t impress anyone and overall deflating my confidence and spirit. Deep down I know I have some issues with imposter syndrome, and honestly sometimes I do believe that I am incapable. Some time in the future I would probably write another blog post about.&lt;/p&gt;
+
+&lt;h1 id=&quot;timeline-3&quot;&gt;Timeline 3&lt;/h1&gt;
+
+&lt;p&gt;Job search did not go well. The number of applications that resulted into responses can be counted on one hand, while in total I probably applied to at least 50 applications (1 - 3 applications per day, at least 5 days per week). The ratio of “success”, success here simply getting a reply, is less than 1-to-10, yikes. Furthermore, I was sure not able to impress recruiters in my phone interviews. At some moments I did think that maybe it was all because of COVID19 and the job search climate. But I decided that even if that was the case, &lt;strong&gt;it was something that I can’t control&lt;/strong&gt;. No matter how much I groan, my groaning would not lead to the outcome I desire, getting a job. So I further expanded my effort to improve my application process.&lt;/p&gt;
+
+&lt;p&gt;I challenged myself to answer the following questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What kind of job I really want? Does industry matter?&lt;/li&gt;
+  &lt;li&gt;What responsibilities would I best be able to serve in? What technologies that I know that can benefit the company I apply to?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Answering the two questions above I decided to stop applying to frontend-heavy jobs. I would still apply to a full stack positions, but mostly those that are more backend oriented. While this is doubling down on a specific engineering area, it is really where I want to be and where I feel I can contribute best as an employee. With that in mind I reviewed my resume and cover letter once more to change how I present myself.&lt;/p&gt;
+
+&lt;p&gt;My most extensive work experience were with messaging/event-driven and data streaming oriented systems which coincidentally I enjoyed and was partly the reason to why I took a masters program. Therefore I made those experiences my main highlight in both my resume and cover letter. There isn’t many applications that directly mention such systems, but I wanted to put myself forward not as an all-rounder programmer that has no specialty. I wanted to be seen as someone that has a specialty but also possessing a broad range of skills. The next major experience that I highlight is designing and building REST APIs, which at least gets mentioned a lot in job postings. Lastly, I made sure to put myself as a developer that cares for quality in my cover letter by putting some emphasis on TDD and other engineering principles.&lt;/p&gt;
+
+&lt;p&gt;But the highlight of this timeline must be this: &lt;strong&gt;I started blogging and putting time for personal projects&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is actually no coincidence that I started blogging more from beginning of July. My lack of progress in job search led me to find other avenues I can make progress in. Blogging was one of those avenues I wanted to invest myself more in, and also a relatively easy way to gain a sense of progress. For the same reason, I also started to do more programming in my own free time. While it isn’t the progress that I need, I felt it was tremendously helpful to gain a sense of momentum in life and also combating my imposter syndrome. I needed to not just feel, but know and see that I am capable of doing something I can take pride and ownership in. Had I not decided to start blog more or code on the side, I absolutely believe that it would have been much harder for me to push myself forward and continue job search.&lt;/p&gt;
+
+&lt;h1 id=&quot;to-be-continued&quot;&gt;To be continued&lt;/h1&gt;
+
+&lt;p&gt;This blog post has gotten quite long already and I don’t want to bore you to death with my life story. So feel free to close off the tab now, I will post the next part in the future. If you managed to read up to here, honestly thank you for reading the diary entries of a man on the internet. See you in the next part.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">Recently I have just transitioned to a new job position (2 months ago from the date of this post) and the experience of the search served to be a valuable feedback for me. Now job search is not something I look forward to and doing it in a pandemic does not make me more enthusiastic. But due to personal reasons my decision to move to a new job was already set in stone pandemic or otherwise. I am sure I am not the only one that have been doing job searches during these hard times, so I feel my experience may bring some value to those that want to or still are job searching.</summary></entry><entry><title type="html">RIL - Financial Investing in the Market</title><link href="https://btruhand.github.io/blog/post/2020/09/03/learning-financial-investment" rel="alternate" type="text/html" title="RIL - Financial Investing in the Market" /><published>2020-09-03T00:00:00-05:00</published><updated>2020-09-03T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/09/03/learning-financial-investment</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/09/03/learning-financial-investment">&lt;figure&gt;
 &lt;img src=&quot;https://ca-times.brightspotcdn.com/dims4/default/56b1a53/2147483647/strip/true/crop/5760x3840+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F82%2F78%2Fbaeb7fd7452ca0b59b92175c0d92%2Faptopix-financial-markets-wall-street-11829.jpg&quot; /&gt;
 &lt;figcaption&gt;Poor man in a stock market exchange seems to be in pain, while I am writing a blog about my own journey with less pain&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -561,70 +629,4 @@ second&lt;/li&gt;
   &lt;li&gt;Enjoy it more! Honestly, I need to enjoy my own creative work more and enjoy the process of it&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;I’ll be sticking my best to these guidelines&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">The first time I tried blogging was back in 2017. Like now, back then I had the same thought of “hey why not start blogging, it will be good for experience and maybe it will be helpful for people”. But then I stopped, and here I am again trying to make blog posts. One time I had an interview for a job and the interviewee asked me what do in my personal time to which I said I used to blog, which the interviewee of course asked “why did you stop?” It was a hard question to answer on the spot, because I knew that the truthful answer does not put me in a good spotlight. The reasons why I stopped blogging was…</summary></entry><entry><title type="html">Values and AI</title><link href="https://btruhand.github.io/blog/post/2017/06/16/values-and-AI" rel="alternate" type="text/html" title="Values and AI" /><published>2017-06-16T00:00:00-05:00</published><updated>2017-06-16T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2017/06/16/values-and-AI</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2017/06/16/values-and-AI">&lt;figure&gt;
-&lt;img src=&quot;https://si.wsj.net/public/resources/images/BI-AA979_AI_GR_20150506144558.jpg&quot; /&gt;
-&lt;figcaption&gt;Thinking, thinking, thinking, always thinking&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;intro&quot;&gt;Intro&lt;/h3&gt;
-
-&lt;p&gt;A couple of days ago I read the following article on &lt;a href=&quot;https://www.wired.com/story/a-blueprint-for-coexistence-with-artificial-intelligence/&quot;&gt;AI and jobs&lt;/a&gt;
-. The author, Mr. Kai-Fu Lee goes back a bit telling his tale, a near death experience, continued with regret and then resolving it into a vision for the current
-and upcoming age of AI. In the article he argued that in order for us to co-exist (take not he didn’t say &lt;em&gt;to win&lt;/em&gt;) with AI is for us to create avenues in life    , particularly jobs that takes advantage and relies on our humanity. The specific quality which he propose to be a solution to the job-market-wrecking-AI problem
-is &lt;em&gt;love&lt;/em&gt;. Mr. Lee did mention other qualities which we often think are intrinsically tied to what makes us humans, but the main thing is love. 
-Mr. Lee’s article then made me thinking about values and AI, and I’ve thought of several things. So let’s continue and read them below!&lt;/p&gt;
-
-&lt;h3 id=&quot;the-value-of-data&quot;&gt;The value of data&lt;/h3&gt;
-
-&lt;p&gt;You may have heard by now the wise words “Knowledge is power” (to which I agree). And you may have heard “Data is the new oil”, that is data is the basis of our
-current age, just like oil was in the 18th century. But of course humanity has amassed knowledge and data for so many years, past decades and centuries, though they
-do say most of our amassed data has been created in the past few years. You get the idea though, we’ve been gathering data for many years now and now with the
-advancement of technology the data we have stacked up and gathered that have been left to dust previously are being picked up and consumed. We feed our computers,
-servers, models with data and create products and services out of them. Where previously data was just lying there seemingly dead without much use (aside for a
-select group of entities, like Google which really have the resources and expertise), now our world is inundated with data and so called &lt;i&gt;data-driven decision&lt;/i&gt;.
-Through technology we have managed to extract and find value in data.&lt;/p&gt;
-
-&lt;h3 id=&quot;extending-the-value-of-data-with-ai&quot;&gt;Extending the value of data with AI&lt;/h3&gt;
-
-&lt;p&gt;And then there’s AI, which like Mr. Lee said, really is another piece of technology that consumes and tries to get value out of our data. But it not only extracts
-value out of data, AI also extrapolates value out of our data. It creates models, decisions, predictions, generalizations out of our data and use them on
-complex subjects it may have never seen and which we like to solve or get better at. AI enables things like self-driving cars, better more relevant ads, AlphaGo
-possible. To add to that, with current advances in technology and research AI has really taken off not just in complexity but also speed and availability. AI
-has taken the value of data a step further by enabling the ability to create services and products that really wouldn’t have been able to take off without it
-(think self-driving cars). Though at the same time it has made several of our jobs redundant.&lt;/p&gt;
-
-&lt;h3 id=&quot;extending-the-value-of-ai&quot;&gt;Extending the value of AI?&lt;/h3&gt;
-
-&lt;p&gt;Now that AI has given us so much value, where do we go from here on? How do we keep ourselves relevant in a world where technology and AI has been able to eke out
-value out of data, the resource that is believed to be most crucial in our age, better (arguably) and faster (definitely) than we ourselves can? Mr. Lee’s proposed
-solution is more akin to complementing that rather than extending on it. Rather than trying to come up with a way in which we can possibly do better than AI, or
-add something to AI’s results which it cannot do itself, to him it is better to to work alongside AI and let us be complemented and also to complement it with our
-inherent humanistic qualities.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-problem-is&quot;&gt;The problem is…&lt;/h3&gt;
-
-&lt;p&gt;The idea itself is fine in my opinion, but the execution may not be so simple. I’m pretty sure there are many more people who are far more qualified than me
-to talk about AI and how to solve the possibility of us being runover by AI. But despite the many influential and capable people out there it seems the fear and
-worry has not gone away and no actual implemented solution is on the way. At best it’s because the problem is inherently hard to formulate and to solve in a way
-that can satisfy the vast majority of our world. At worst… it’s because we really don’t know think there are significant value we can gain from our inherent
-humanity.&lt;/p&gt;
-
-&lt;p&gt;Okay I doubt it’s as bad as I purport, but I do think the thought has some merit. At the very least I do think we don’t give enough objective and appreciation
-to our humanistic qualities. For example, I’m sure most if not all of us would agree that a great and caring parent goes a long way in the upbringing of a child and
-their future. A child that is brought up well and with great care probably has less risks to incur mental health problems which may be related to their environment.
-So those kids in the future can be healthier, and less cost is needed to maintain his or her mental health. A great parent also seems likely to enable their child
-to attain greater heights, and thus higher social contribution in the future. These are all valuable things for us and our society and have direct or indirect
-consequence to our economy, but I’m not aware of any widespread economic measurement that takes into account quality of parenthood.&lt;/p&gt;
-
-&lt;p&gt;There are many other humanistic qualities which I am sure we do value in our life, but are not given it’s due appreciation and value in an objective manner.
-Whether that objective quantification or assessment is in terms of monetary value, or recognition, or something else, I do think we are lacking in that aspect.
-This is a problem that is not inherent in AI but in us, in how we see, value and think of life, of ourselves. If we are to complement the value of our AI with
-value inherent in us, then we must be able to value our human capabilities and existence in ourselves and in others.&lt;/p&gt;
-
-&lt;h3 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h3&gt;
-
-&lt;p&gt;I think Mr. Lee’s blueprint, though barebones, is something agreeable. Rather than battling our way through data and AI’s inherent ability to qucikly and accurately
-derive value out of data we should strive to look into ourselves ways in which we can bring about value through our own nature. As AI achieves feats which
-we have previously only associated with humans we would need to branch out to other areas, whether to compete or to co-exist with AI. But branching out would also
-entail our desire and ability to find value in those areas, a problem which I think we, as humans and society, need to solve by ourselves and re-align
-our values.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><category term="[&quot;old-post&quot;, &quot;AI&quot;]" /><summary type="html">Thinking, thinking, thinking, always thinking</summary></entry></feed>
+&lt;p&gt;I’ll be sticking my best to these guidelines&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><summary type="html">The first time I tried blogging was back in 2017. Like now, back then I had the same thought of “hey why not start blogging, it will be good for experience and maybe it will be helpful for people”. But then I stopped, and here I am again trying to make blog posts. One time I had an interview for a job and the interviewee asked me what do in my personal time to which I said I used to blog, which the interviewee of course asked “why did you stop?” It was a hard question to answer on the spot, because I knew that the truthful answer does not put me in a good spotlight. The reasons why I stopped blogging was…</summary></entry></feed>
