@@ -48,7 +48,7 @@ Trying to improve from my previous attempts at applications I decided to look ba
 
 You would think that one of the things that I would have done was to have a connection review my resume in the list above, but as you there is no mention of it. Why? The reason is simple, I was too afraid to ask it to be critiqued by another set of eyes. Honestly, I should have sought someone to critique it for me, but I was simply too scared at the thought of being shot down, getting told that what I have won't impress anyone and overall deflating my confidence and spirit. Deep down I know I have some issues with imposter syndrome, and honestly sometimes I do believe that I am incapable. Some time in the future I would probably write another blog post about.
 
-# Timeline 3
+# Timeline #3
 
 Job search did not go well. The number of applications that resulted into responses can be counted on one hand, while in total I probably applied to at least 50 applications (1 - 3 applications per day, at least 5 days per week). The ratio of "success", success here simply getting a reply, is less than 1-to-10, yikes. Furthermore, I was sure not able to impress recruiters in my phone interviews. At some moments I did think that maybe it was all because of COVID19 and the job search climate. But I decided that even if that was the case, **it was something that I can't control**. No matter how much I groan, my groaning would not lead to the outcome I desire, getting a job. So I further expanded my effort to improve my application process.
 
