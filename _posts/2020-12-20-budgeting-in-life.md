@@ -1,7 +1,7 @@
 ---
 layout: post
-description: Exploring what a budget is and adopting it as a mindset
-title: A Budgeting Mindset
+description: Exploring what a budget is and what it means to have one
+title: Budgeting in Life
 categories: [life, finance, planning, goals and values]
 permalink: /post/:year/:month/:day/:title
 toc: true
