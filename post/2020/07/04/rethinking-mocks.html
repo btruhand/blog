@@ -3,9 +3,9 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="twitter:card" content="summary" /><!-- Begin Jekyll SEO tag v2.6.1 -->
+  <meta name="twitter:card" content="summary_large_image" /><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Re-thinking Mocks | btruhand - scattering of thoughts</title>
-<meta name="generator" content="Jekyll v4.0.0" />
+<meta name="generator" content="Jekyll v4.1.1" />
 <meta property="og:title" content="Re-thinking Mocks" />
 <meta name="author" content="btruhand" />
 <meta property="og:locale" content="en_US" />
@@ -17,7 +17,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-07-04T00:00:00-05:00" />
 <script type="application/ld+json">
-{"author":{"@type":"Person","name":"btruhand"},"description":"Lessons from using mocks in software testing","@type":"BlogPosting","headline":"Re-thinking Mocks","dateModified":"2020-07-04T00:00:00-05:00","datePublished":"2020-07-04T00:00:00-05:00","url":"https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks"},"@context":"https://schema.org"}</script>
+{"url":"https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks","@type":"BlogPosting","headline":"Re-thinking Mocks","dateModified":"2020-07-04T00:00:00-05:00","datePublished":"2020-07-04T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks"},"author":{"@type":"Person","name":"btruhand"},"description":"Lessons from using mocks in software testing","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://btruhand.github.io/blog/feed.xml" title="btruhand - scattering of thoughts" /><!-- the google_analytics_id gets auto inserted from the config file -->
 
@@ -25,31 +25,8 @@
 
 <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-186226858-1','auto');ga('require','displayfeatures');ga('send','pageview');</script>
 
-<link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Re-thinking Mocks | btruhand - scattering of thoughts</title>
-<meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Re-thinking Mocks" />
-<meta name="author" content="btruhand" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Lessons from using mocks in software testing" />
-<meta property="og:description" content="Lessons from using mocks in software testing" />
-<link rel="canonical" href="https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks" />
-<meta property="og:url" content="https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks" />
-<meta property="og:site_name" content="btruhand - scattering of thoughts" />
-<meta property="og:type" content="article" />
-<meta property="article:published_time" content="2020-07-04T00:00:00-05:00" />
-<script type="application/ld+json">
-{"author":{"@type":"Person","name":"btruhand"},"description":"Lessons from using mocks in software testing","@type":"BlogPosting","headline":"Re-thinking Mocks","dateModified":"2020-07-04T00:00:00-05:00","datePublished":"2020-07-04T00:00:00-05:00","url":"https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks","mainEntityOfPage":{"@type":"WebPage","@id":"https://btruhand.github.io/blog/post/2020/07/04/rethinking-mocks"},"@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-<link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
-<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"><link type="application/atom+xml" rel="alternate" href="https://btruhand.github.io/blog/feed.xml" title="btruhand - scattering of thoughts" /><!-- the google_analytics_id gets auto inserted from the config file -->
-
-
-
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-186226858-1','auto');ga('require','displayfeatures');ga('send','pageview');</script>
-
-
+<link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
 
 <script>
 function wrap_img(fn) {
@@ -137,10 +114,10 @@ window.onload = wrap_img;
 <li class="toc-entry toc-h1"><a href="#an-alternative-for-mocking">An alternative for mocking</a></li>
 </ul><p>These days I have mainly been using Java for my professional career (roughly I have been working with Java for a year). I also mainly have been using the
 <a href="https://docs.spring.io/spring/docs/current/spring-framework-reference/">Spring framework</a> along with its additional libraries at work. One of the things that
-I enjoy with Spring is the dependency injection capability that it provides, primarily through the <code class="highlighter-rouge">@Autowired</code> annotation. This quick and easy way to do dependency
-injection is also further compounded in testing benefits as Spring also provides easy and seemless way to obtain these dependencies at test time (<code class="highlighter-rouge">@Import</code> and
-<code class="highlighter-rouge">@ContextConfiguration</code> to name a few) makes testing much easier. I also make a good amount of use <a href="https://site.mockito.org/">Mockito</a> which makes my development
-life much easier through <code class="highlighter-rouge">mocks</code>, and this post is about <code class="highlighter-rouge">mocks</code> and my experience and thoughts on them.</p>
+I enjoy with Spring is the dependency injection capability that it provides, primarily through the <code class="language-plaintext highlighter-rouge">@Autowired</code> annotation. This quick and easy way to do dependency
+injection is also further compounded in testing benefits as Spring also provides easy and seemless way to obtain these dependencies at test time (<code class="language-plaintext highlighter-rouge">@Import</code> and
+<code class="language-plaintext highlighter-rouge">@ContextConfiguration</code> to name a few) makes testing much easier. I also make a good amount of use <a href="https://site.mockito.org/">Mockito</a> which makes my development
+life much easier through <code class="language-plaintext highlighter-rouge">mocks</code>, and this post is about <code class="language-plaintext highlighter-rouge">mocks</code> and my experience and thoughts on them.</p>
 
 <h1 id="what-are-mocks">
 <a class="anchor" href="#what-are-mocks" aria-hidden="true"><span class="octicon octicon-link"></span></a>What are mocks</h1>
@@ -189,13 +166,13 @@ under test has produced. Martin Fowler made a clear distinction and emphasis on 
 <span class="o">}</span>
 </code></pre></div></div>
 
-<p>The above example is extremely contrived but it just barely shows the use case of mocks. The call to the <code class="highlighter-rouge">verify</code> function says that we are trying to verify
-that when <code class="highlighter-rouge">shouldDoFunc = false</code>, we expect that <code class="highlighter-rouge">ClassB.doFunc</code> will not be called.</p>
+<p>The above example is extremely contrived but it just barely shows the use case of mocks. The call to the <code class="language-plaintext highlighter-rouge">verify</code> function says that we are trying to verify
+that when <code class="language-plaintext highlighter-rouge">shouldDoFunc = false</code>, we expect that <code class="language-plaintext highlighter-rouge">ClassB.doFunc</code> will not be called.</p>
 
-<p>The alternative to using mocks above would be to supply an actual instance of <code class="highlighter-rouge">ClassB</code> (not mocked) and check against the <em>results</em> after calling <code class="highlighter-rouge">ClassA.func</code>.
+<p>The alternative to using mocks above would be to supply an actual instance of <code class="language-plaintext highlighter-rouge">ClassB</code> (not mocked) and check against the <em>results</em> after calling <code class="language-plaintext highlighter-rouge">ClassA.func</code>.
 Now in the above example no values are being returned from any of the function calls so no returned value can be expected, however often such functions causes
 side-effects. Common side-effects include calling some API that causes some change, changing the environment settings, performing DB changes such as updates, changing
-the state of <code class="highlighter-rouge">ClassB</code> and many more. Such side-effects are testable and verifiable (if there are no side-effects performed by the function I question why the function
+the state of <code class="language-plaintext highlighter-rouge">ClassB</code> and many more. Such side-effects are testable and verifiable (if there are no side-effects performed by the function I question why the function
 exists).</p>
 
 <h1 id="the-positives-of-mocks">
@@ -206,9 +183,9 @@ which makes tests run slow but also developed more slowly. An alternative to moc
 also create additional development effort to make and also may require its own maintenance. Though a great deal of this benefit comes from the fact that many languages
 have a well-tested and prevalent mocking library.</p>
 
-<p>Mocks also makes creating truly <code class="highlighter-rouge">unit</code> tests easier, and by unit here I mean tests that only put a single class/object under test. Mocks enable me to put the focus
+<p>Mocks also makes creating truly <code class="language-plaintext highlighter-rouge">unit</code> tests easier, and by unit here I mean tests that only put a single class/object under test. Mocks enable me to put the focus
 and attention of tests on the specific unit under test and not have to worry about the other interacting pieces. In the example above, the test is made deliberately
-about <code class="highlighter-rouge">ClassA.func</code> behaviour when it is in a certain state. In more complex objects under test, this makes some desired fine-grained testing much more approachable
+about <code class="language-plaintext highlighter-rouge">ClassA.func</code> behaviour when it is in a certain state. In more complex objects under test, this makes some desired fine-grained testing much more approachable
 and manageable.</p>
 
 <h1 id="the-negatives-of-mocks">
@@ -221,10 +198,10 @@ strings to specialized reflection APIs. Since access is made via strings, IDEs w
 harder to detect. Thankfully a testing is one of the tools we have to safeguard ourselves against our programming mistakes, until the tests start to fail us.</p>
 
 <p>Using reflection capabilities requires the programmer to have clear knowledge about what is and isn’t present and bake that knowledge statically into the code and
-it is the same case when we use mocks. Now libraries like <code class="highlighter-rouge">Mockito</code> does enable the use of refactoring through IDE unlike reflection, but mocking doesn’t easily
+it is the same case when we use mocks. Now libraries like <code class="language-plaintext highlighter-rouge">Mockito</code> does enable the use of refactoring through IDE unlike reflection, but mocking doesn’t easily
 allow us to change the tests when the dependency calls in the code under test changes. This creates a mismatch between expectation and reality. For example, if in
-<code class="highlighter-rouge">ClassA</code> above we change the call of <code class="highlighter-rouge">doFunc</code> to another function <code class="highlighter-rouge">doFunc2</code>, the test would still pass but for very much the wrong reason! The reality is that
-<code class="highlighter-rouge">doFunc</code> is no longer a dependency call being made, but the test still expects it as a call to be made and it just so happens the test was verifying that no calls
+<code class="language-plaintext highlighter-rouge">ClassA</code> above we change the call of <code class="language-plaintext highlighter-rouge">doFunc</code> to another function <code class="language-plaintext highlighter-rouge">doFunc2</code>, the test would still pass but for very much the wrong reason! The reality is that
+<code class="language-plaintext highlighter-rouge">doFunc</code> is no longer a dependency call being made, but the test still expects it as a call to be made and it just so happens the test was verifying that no calls
 were to be made. The following test would fail:</p>
 
 <div class="language-java highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kt">void</span> <span class="nf">test_func_whenShouldDoFunc_callDoFunc</span><span class="o">()</span> <span class="o">{</span>
@@ -261,8 +238,8 @@ functions as parameters is called <a href="https://en.wikipedia.org/wiki/First-c
 <span class="p">}</span>
 </code></pre></div></div>
 
-<p>The passed in <code class="highlighter-rouge">dependentFunction</code> is simply a function passed as a parameter that is called when some condition is met inside <code class="highlighter-rouge">funcToTest</code>. Notice how in the test we
-are also verifying the behaviour of <code class="highlighter-rouge">funcToTest</code> under some condition, similar to the example with <code class="highlighter-rouge">ClassA</code>. In both the test using mocks and first-class function we
+<p>The passed in <code class="language-plaintext highlighter-rouge">dependentFunction</code> is simply a function passed as a parameter that is called when some condition is met inside <code class="language-plaintext highlighter-rouge">funcToTest</code>. Notice how in the test we
+are also verifying the behaviour of <code class="language-plaintext highlighter-rouge">funcToTest</code> under some condition, similar to the example with <code class="language-plaintext highlighter-rouge">ClassA</code>. In both the test using mocks and first-class function we
 see that behaviour is being verified, and this should come as no surprise. We can think of objects as instances of namespaces/groupings for functions (with the ability
 to maintain and collect some form of internal state) and so when we pass an object as a dependency it can be seen as passing in a collection of functions. The
 difference is that when we use mocks we have to explicitly mention the dependent function we are interested in, while with first-class functions the dependent function
