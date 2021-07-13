@@ -7,15 +7,17 @@ permalink: /post/:year/:month/:day/:title
 toc: true
 ---
 
-Recently I had a conversation with two gents about software development and the word "Agile" propped up. As software engineers, or even business management these days, the word agile is everywhere. In job postings, in company slogans, in company talks, on our computer screens, and in our purported work values. But I know from personal feelings, observations and anecdotes there is some distaste to "agile" and that it feels more than anything like hype, buzzword, and even worse at times feels like a marketing tool to attract talent which sadly does not deliver. Then there is the frustration of very few seemingly have a good grasp of what "agile" is.
+Recently I had a conversation with two gents about software development and the word "Agile" propped up. As software engineers, or even business management these days, the word agile is everywhere. In job postings, in company slogans, in company talks, on our computer screens, and in our purported work values. But I know from personal feelings, observations and anecdotes there is some distaste to "Agile" and that it feels more as hype and even worse at times feels like a marketing tool to attract talent which sadly does not deliver.
 
 So as per my usual inquiring-and-chatty-self I asked the two gents, "So, what does agile mean to you?". And I purposefully directed the question to them through the vocabulary "you" because I want to understand their own personal mental model of Agile. I do not care about Scrum, Kanban or whatever new Agile framework out there is, I wanted to get to the fundamental of Agile.
 
 The first said that for him Agile is all about doing breaking up the work and taking them up. He stated that the importance is not in the pointing mechanism itself, but more in actually being able to take up and do the work. The other said that Agile for him is all about the small iterative steps that is aimed for continuous refinement.
 
-I think these kind of mental models of Agile is quite common. Generally they are surmised by these adjectives or nouns: 'iterative', 'small', 'continuous improvement'. But I would like to further refine this understanding of iteration for in my honest optionion it doesn't quite make the mark of what Agile really is. So let's do that in this post, let's try to develop a better mental model of Agile
+I think these kind of mental models of Agile is quite common. Generally they are surmised by these adjectives or nouns: 'iterative', 'small', 'continuous improvement'. But I would like to further refine this understanding of iteration. So let's do that in this post, let's try to develop a better mental model of Agile.
 
-> Here is my take: The main abstraction provided by Agile is experimentation
+Here is my take:
+
+> The main abstraction provided by Agile is experimentation
 
 # Experimentation first, the rest is by-product
 
@@ -25,7 +27,8 @@ And when I say experimentation, I really mean experimentation as in the scientif
 
 <figure>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/The_Scientific_Method.svg/1024px-The_Scientific_Method.svg.png">
-<figcaption>A picture of the scientific method, which is an on-going process. Source - Wikipedia</figcaption>
+    <figcaption>A picture of the scientific method, which is an on-going process. Source - <a href="https://en.wikipedia.org/wiki/Scientific_method">Wikipedia</a>
+    </figcaption>
 </figure>
 
 Since I posit that Agile is really all about experimentation brought to business practice, then there are four elements that businesses adopting Agile must absolutely meet:
@@ -107,7 +110,9 @@ Internally, the problems mentioned above can equally be replicated and exacerbat
 
 Externally, some organizations are situated within an industry that makes experimentation difficult. These industries often have low tolerance for mistakes. Arguably all industries are intolerant for mistakes, but some just feel more daunting than others, whether that is true or not is another topic.
 
-Despite internal or external friction, it is possible to adopt Agile methodologies in gradients. While indeed Agile can be adopted within the context of "move fast and break things", it can also be adapted in more nuanced and smaller scale. I take inspiration from SpaceX that continuously runs launch experiments against their hypothetical products. The level of funding needed to run these experiments, which may end with million-dollars fireworks, is ludicrously high. Yet, SpaceX shows that it is possible that Agile is possible even in high-stake. So instead of fully backing off from Agile, we can try to see at which parts of our organizations do Agile make sense and in what form. At the very least I think all software engineering teams can adopt Agile at least by adopting CI/CD pipelines.
+Despite internal or external friction, it is possible to adopt Agile methodologies in gradients. While indeed Agile can be adopted within the context of "move fast and break things", it can also be adapted in more nuanced and smaller scale. I take inspiration from SpaceX that continuously runs launch experiments against their hypothetical products. The level of funding needed to run these experiments, which may end with million-dollars fireworks, is ludicrously high. Yet, SpaceX shows that it is possible that Agile is possible even in high-stake.
+
+So instead of fully backing off from Agile, we can try to see at which parts of our organizations do Agile make sense and in what form. At the very least I think all software engineering teams can and should adopt Agile by adopting CI/CD pipelines.
 
 **NOTE**: Dave Farley has a [video](https://youtu.be/v8f6q4ruvds) more on SpaceX.
 
@@ -117,4 +122,4 @@ When I hear Agile, I always think of the [Agile Manifesto](https://agilemanifest
 
 Seeing Agile as experimentation puts a lot of emphasis on `Working software` and `Responding to change` of the Manifesto. In particular, the Agile experiments are there to serve as a way to create software that works (for customers, not just for computers) according to battle-tested hypotheses. The experimental loop fundamentally necessitates organizations to expect change from the Agile cycles, and also from external forces.
 
-Hopefully this helps you in truly bringing Agile chnages to your organization.
+Hopefully this helps you in truly bringing Agile changes to your organization.
