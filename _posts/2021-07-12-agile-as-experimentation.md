@@ -1,6 +1,6 @@
 ---
 layout: post
-description: In this post I posit that the heart of Agile is scientific experimentation and not any of the marketed Agile methodologies like Scrum, Kanbdan etc.
+description: In this post I posit that the heart of Agile is scientific experimentation and not any of the marketed Agile methodologies like Scrum, Kanban etc.
 title: Agile is Experimentation
 categories: [software development, management, organizational techniques]
 permalink: /post/:year/:month/:day/:title
