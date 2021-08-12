@@ -1,4 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2021-07-13T23:37:29-05:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand - scattering of thoughts</title><subtitle>Btruhand's blogging outlet, ranging from technical writeups to social opions</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">Agile is Experimentation</title><link href="https://btruhand.github.io/blog/post/2021/07/12/agile-as-experimentation" rel="alternate" type="text/html" title="Agile is Experimentation" /><published>2021-07-12T00:00:00-05:00</published><updated>2021-07-12T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2021/07/12/agile-as-experimentation</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2021/07/12/agile-as-experimentation">&lt;p&gt;Recently I had a conversation with two gents about software development and the word “Agile” propped up. As software engineers, or even business management these days, the word agile is everywhere. In job postings, in company slogans, in company talks, on our computer screens, and in our purported work values. But I know from personal feelings, observations and anecdotes there is some distaste to “Agile” and that it feels more as hype and even worse at times feels like a marketing tool to attract talent which sadly does not deliver.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://btruhand.github.io/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://btruhand.github.io/blog/" rel="alternate" type="text/html" /><updated>2021-08-11T19:09:37-05:00</updated><id>https://btruhand.github.io/blog/feed.xml</id><title type="html">btruhand - scattering of thoughts</title><subtitle>Btruhand's blogging outlet, ranging from technical writeups to social opions</subtitle><author><name>btruhand</name><email>btruhand@gmail.com</email></author><entry><title type="html">Part 1, Land Value Tax - Oh Canada, Why Is Your Land So Expensive?</title><link href="https://btruhand.github.io/blog/post/2021/08/11/oh-canada-why-is-your-land-so-expensive" rel="alternate" type="text/html" title="Part 1, Land Value Tax - Oh Canada, Why Is Your Land So Expensive?" /><published>2021-08-11T00:00:00-05:00</published><updated>2021-08-11T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2021/08/11/oh-canada-why-is-your-land-so-expensive</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2021/08/11/oh-canada-why-is-your-land-so-expensive">&lt;h2 id=&quot;canadas-housing-price&quot;&gt;Canada’s Housing Price&lt;/h2&gt;
+
+&lt;p&gt;If you are a Canadian reader headlines of large price increases on real estate, particularly on housing real estate, is likely not foreign to you. In 2021. A quick search yields &lt;a href=&quot;https://www.ctvnews.ca/business/canadian-home-sales-prices-surge-to-new-record-in-march-1.5388622&quot;&gt;an article&lt;/a&gt; that says Canadian house prices rose by 31.6% from March 2020 (start of COVID-19 pandemic) to March 2021.&lt;/p&gt;
+
+&lt;p&gt;On another &lt;a href=&quot;https://housepriceindex.ca/2021/07/june2021/&quot;&gt;report&lt;/a&gt;, most major cities in Canada have had their highest real estate during the COVID-19 pandemic. The surge on real estate prices is taken note by Bank of Canada as a &lt;a href=&quot;https://betterdwelling.com/boc-governor-says-canada-will-lean-on-real-estate-because-we-need-the-growth/&quot;&gt;significant economic driving force&lt;/a&gt; with residiential real estate investment accounting for over 9% of gross domestic product. Increase in residential real estate prices, along with accomodative monetary policies such as low interest rates have prompted investments into residential real estate to &lt;a href=&quot;https://betterdwelling.com/canadians-now-pump-more-into-residential-real-estate-than-business-development/&quot;&gt;slightly eclipse&lt;/a&gt; that of non-residential’s. &lt;a href=&quot;https://financialpost.com/investing/david-rosenberg-housing-is-keeping-canadas-economy-going-and-thats-bad-news-when-the-bubble-pops&quot;&gt;Some are opining that Canada’s economiy is over-reliant&lt;/a&gt; on the residential real estate market, with investments on productive assets being thwarted by the chase on real estate investments.&lt;/p&gt;
+
+&lt;p&gt;In general, money goes where returns shine the brightest and certainly the Canadian housing market is shining bright hot in price. Considering residential, or housing’s, status of both as a consumption and asset it brings both pain and joy throughout the economy. For those that have entered into the real estate ownership, there is surely some joy having an asset that appreciates (though I personally contest this notion of housing as an asset). &lt;a href=&quot;https://www.newswire.ca/news-releases/housing-in-crisis-3-in-4-canadians-who-want-a-house-can-t-afford-one-829319771.html&quot;&gt;But for many&lt;/a&gt;, it can be painful thinking of ever growing house prices.&lt;/p&gt;
+
+&lt;h2 id=&quot;price-reasoning&quot;&gt;Price Reasoning&lt;/h2&gt;
+
+&lt;p&gt;It has always perplexed me that house prices continue to rise especially if it does so in extraordinary numbers. Check out this &lt;a href=&quot;https://twitter.com/JamesEagle17/status/1377353707478601729&quot;&gt;Twitter thread&lt;/a&gt; for an infographic of how much Canada’s house prices have risen. The &lt;a href=&quot;https://www150.statcan.gc.ca/n1/pub/46-28-0001/2019001/article/00002-eng.htm&quot;&gt;ever increasing housing price has continued to outpace income in growth&lt;/a&gt; making house affordability an increasing pain point throughout the country. You see it in headlines and probably have conversations with it online and offline. As someone that do not have their own house and who may (or may not) choose to buy one in the future in Canada, it is definitely a situation that is worrisome. Even if you are not planning to buy some housing property it is still an economical and social concern. For those in governing seats, it is likely a political concern too. What can we do about this?&lt;/p&gt;
+
+&lt;p&gt;To hope to answer the question we would need to assess reasons for why house prices have continued to grow. Some of the common reasons that I have seen and heard are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Low interest rates&lt;/li&gt;
+  &lt;li&gt;Discrepancy on supply and demand&lt;/li&gt;
+  &lt;li&gt;Speculation money driving up prices&lt;/li&gt;
+  &lt;li&gt;An accommodative government that will not tolerate house prices to drop&lt;/li&gt;
+  &lt;li&gt;Increasing foreign investments or buyers&lt;/li&gt;
+  &lt;li&gt;Hiding laundered money through buying properties&lt;/li&gt;
+  &lt;li&gt;Pro-buying programs such as first time home owner&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And then there is the classic - all of the above and more, which I agree is probably the case with each point having some degree of relevance. But on this series I would like to focus on the third reason, speculation.&lt;/p&gt;
+
+&lt;h2 id=&quot;land-and-speculation&quot;&gt;Land and Speculation&lt;/h2&gt;
+
+&lt;p&gt;What is it that is being speculated on with housing and how does that speculation get reflected in price? I think we can all agree that in general, over time a house’s condition will deteriorate if maintenance is not properly given. Much like a car that is used over time, it will lose its price as its value is eked over time. A house’s design has a certain of sense and fashion to it which may gain in popularity much like fashion and may come and go in popularity. But such ebb and flow in consumer taste is hardly a reason for an endemic increase in price. So neither the interior nor exterior quality of a house by in itself may drive us to speculate on its price. Then it must be something else, and based on the title of this article, it is the land of the house that can be speculated to increase in value and hence price.&lt;/p&gt;
+
+&lt;p&gt;For the most part, the available land to us is static and no one can truly produce more of it. Okay, maybe there are instances where land is “created” (or reclaimed) land like in the &lt;a href=&quot;https://www.thoughtco.com/polders-and-dikes-of-the-netherlands-1435535&quot;&gt;Netherlands&lt;/a&gt; or in &lt;a href=&quot;https://en.wikipedia.org/wiki/Land_reclamation_in_Singapore&quot;&gt;Singapore&lt;/a&gt;, but these instances are few in contrast to the vast land that we have. Or perhaps you say that land is being lost due to &lt;a href=&quot;https://www.nationalgeographic.com/environment/article/sinking-land-rising-seas-dual-crises-facing-coastal-communities&quot;&gt;land sinking based on effects of climate change&lt;/a&gt;. Okay find, but land sinking isn’t what we humans consciously work for in the economy like how you or I work at our jobs. Land, for the most part, is simply not something we produce, it’s supply is fixed (pre-dominantly) by what mother nature gives to us.&lt;/p&gt;
+
+&lt;p&gt;Then if land is fixed, supply and demand from economics 101 will tell us that price can only increase as a matter of demand. So when we speculate on the value of land we speculate that the price of land will increase as a function of higher demand. Why will a particular piece of land gain or lose demand? Because the land is surrounded by or removed of other valuable things (including other valuable land). The things of value built surrounding a particular land is a function of economic investments and market or community participation. Acknowledgement of the participation of a greater community is key to understand that the value of land is not beholden to anyone.&lt;/p&gt;
+
+&lt;h2 id=&quot;land-value-is-not-owned-by-anyone&quot;&gt;Land Value is Not Owned by Anyone&lt;/h2&gt;
+
+&lt;p&gt;So let us recap:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Land’s supply is fixed and no person can increase or decrease its price through direct production&lt;/li&gt;
+  &lt;li&gt;Land gains value by what it is surrounded by and the community and market that participates on it and it’s surrounding&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Through these two observation we can claim that &lt;em&gt;land’s value is not owned by anyone&lt;/em&gt;. Of course in a system of capitalism there is a notion of private ownership. Land itself can be privately owned for purposes such as building a business on top of it, or to live on it. But it’s value cannot be privately owned, because it’s value is not a function of one’s own work but that of mother nature’s and society as a whole. This is what Henry George argues for in his book &lt;a href=&quot;https://astralcodexten.substack.com/p/your-book-review-progress-and-poverty&quot;&gt;Progress and Poverty&lt;/a&gt;. But our friend George here goes further than just defining land value, George wants to tax the land value we are standing and living on!&lt;/p&gt;
+
+&lt;h2 id=&quot;land-value-tax-and-speculation&quot;&gt;Land Value Tax and Speculation&lt;/h2&gt;
+
+&lt;p&gt;George’s land value tax (LVT) is a simple proposal: put a tax on the value of the land. George goes further to say that LVT is the only tax that is needed to fund everything. He also contends that it is the most just tax to impose because no one owns the value of land (he allows land ownership, just not ownership over it’s value).&lt;/p&gt;
+
+&lt;p&gt;To make it even more starking George wants to tax 100% of the value of land. Partly again becasue of the no ownership over land value. Another reason is because George thinks that this would help dampen speculation.&lt;/p&gt;
+
+&lt;p&gt;Why would it be so? Well consider someone who is a house flipper that aims to buy some house property and sell it in a year or so. This person thinks that the price of the house will increase in the future without them needing to do &lt;em&gt;improvements&lt;/em&gt; on top of it. To make it concrete say they bought for 500k CAD, and in a year they manage to sell for 600k CAD making a 100k revenue. Minus transaction costs and fees they may take home 50k in profit. But remember that they did not make any improvement to the property, thus the government can say that the price increase was wholly due to some land value increase. So through a 100% LVT they will be taxed on the full 50k profit or 100k revenue, depending on how the tax policy is enacted. No economic agent looking to make a profit will bother with flipping a house anymore because there is no profitable incentive to do so.&lt;/p&gt;
+
+&lt;p&gt;What if the flipper did decide to make some improvements to the house and sell higher based on the improvements? Then based on George’s LVT, they are entitled to the profits of their improvements. And since George advocates as LVT as the only tax, the profit from improvements will not be taxed. So if they made a 20k CAD improvement on the property, and sold it for 50k CAD, they are entitled on the full 30k profit.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-lvt-feasible&quot;&gt;Is LVT Feasible?&lt;/h2&gt;
+
+&lt;p&gt;There are already some forms of LVT around the world, though not to the same degree that George laid it out. But there does seem to be government funding that is similar to essence with LVT. One such recent funding is &lt;a href=&quot;https://www.canada.ca/en/innovation-science-economic-development/news/2021/07/3500-mhz-auction--process-and-results.html&quot;&gt;Canada’s 5G broadband auction&lt;/a&gt;. While not deemed as tax, you can easily think of it as a one time tax for Canadian telecom providers that wish to supply 5G connectivity.&lt;/p&gt;
+
+&lt;p&gt;Just like how in LVT the government mandates that no one has ownership over land, the spectrum’s value is also not owned by anyone since they are simply leased through a license by the government. The spectrum’s value is for all, stewarded by the government in this case. The perception of the auction bids as a form of tax on future profits is also &lt;a href=&quot;https://www.bloombergquint.com/onweb/quebec-cable-firm-surprises-with-5g-spending-spree-in-canada&quot;&gt;reflected in the stock market of the highest bidders&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final Thoughts&lt;/h2&gt;
+
+&lt;p&gt;The encounter with LVT while thinking about what can be done about Canadian housing price has been a delight. I do think that LVT can be applied to try and curb the speculative sensation of the Canadian housing market. Dampening down speculation should help bring down, or at least keep house prices down at a reasonable price or growth rate. Meanwhile the proceeds from LVT can be used to fund public goods, and even perhaps a universal basic income as a way to disperse the riches of Canadian lands to the public.&lt;/p&gt;
+
+&lt;p&gt;In part 2 I will be briefly look at the economic and policy implications of LVT.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><category term="housing" /><category term="real estate" /><category term="taxation" /><category term="policy" /><category term="economics" /><summary type="html">Canada’s Housing Price</summary></entry><entry><title type="html">Agile is Experimentation</title><link href="https://btruhand.github.io/blog/post/2021/07/12/agile-as-experimentation" rel="alternate" type="text/html" title="Agile is Experimentation" /><published>2021-07-12T00:00:00-05:00</published><updated>2021-07-12T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2021/07/12/agile-as-experimentation</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2021/07/12/agile-as-experimentation">&lt;p&gt;Recently I had a conversation with two gents about software development and the word “Agile” propped up. As software engineers, or even business management these days, the word agile is everywhere. In job postings, in company slogans, in company talks, on our computer screens, and in our purported work values. But I know from personal feelings, observations and anecdotes there is some distaste to “Agile” and that it feels more as hype and even worse at times feels like a marketing tool to attract talent which sadly does not deliver.&lt;/p&gt;
 
 &lt;p&gt;So as per my usual inquiring-and-chatty-self I asked the two gents, “So, what does agile mean to you?”. And I purposefully directed the question to them through the vocabulary “you” because I want to understand their own personal mental model of Agile. I do not care about Scrum, Kanban or whatever new Agile framework out there is, I wanted to get to the fundamental of Agile.&lt;/p&gt;
 
@@ -522,92 +587,4 @@ the scattering of my thoughts in action. The seed is the seed of growth that ena
 while entertaining, serves a purpose. Through a cycle of being structured and destructured, I acknowledge that as I grow there will be moments where I will settle
 with the new me, and whenever those moments come, I would want to grow again. Hence, repeating the cycle ad infinitum.&lt;/p&gt;
 
-&lt;p&gt;I’m truly happy for the work that my friend managed to do. Sadly, there is no attribution link I can direct to for her right now, but I hope to add it in the future.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><category term="blog improvement" /><summary type="html">I commissioned a good designer friend of mine for a logo for this site (including a favicon), and I want to outline why the logo looks like the way it is.</summary></entry><entry><title type="html">Being An Early Mentor</title><link href="https://btruhand.github.io/blog/post/2020/07/13/being-an-early-mentor" rel="alternate" type="text/html" title="Being An Early Mentor" /><published>2020-07-13T00:00:00-05:00</published><updated>2020-07-13T00:00:00-05:00</updated><id>https://btruhand.github.io/blog/post/2020/07/13/being-an-early-mentor</id><content type="html" xml:base="https://btruhand.github.io/blog/post/2020/07/13/being-an-early-mentor">&lt;figure&gt;
-&lt;img src=&quot;/blog/images/mentorship_post_20200713.jpg&quot; /&gt;
-&lt;figcaption&gt;Trust me that this picture of clouds isn't randomly put here&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;In my career so far as a software engineer I have had 3 opportunities to be a mentor for someone that is more junior than me. Sometimes this junior-senior
-status is established not necessarily by the capabilities and skills but more by my length of stay in the company. This was especially true when I worked in
-Japan that is known heavily to promote a &lt;a href=&quot;https://www.japantimes.co.jp/opinion/2019/08/24/editorials/reviewing-seniority-based-pay/&quot;&gt;seniority ranking&lt;/a&gt; of some sorts,
-implicitly or explicitly.&lt;/p&gt;
-
-&lt;p&gt;Considering that I have only been professionally in the field for 4 years, with no previous background to software programming before my
-undergraduate, is something I find a bit surprising even for myself. I feel blessed to have had the opportunity so early in my career and in this blog post I
-go over my experiences and thoughts on my role as a mentor&lt;/p&gt;
-
-&lt;h1 id=&quot;the-first-mentee&quot;&gt;The first mentee&lt;/h1&gt;
-
-&lt;p&gt;I was asked to mentor a new colleague six months into my first professional full-time career as a software engineer. By standards of total working experience this
-colleague was actually more senior than me, but I just so happen to have worked in the company sooner than him. This mentee was also quite adept in his tech
-skills, so aside from a few pointers about the team dynamics, projects, system overview I can’t actually remember any specific piece of technical knowledge that I
-felt I was able to impart. Actually I remembered several times where I was surprised with what he showed me, for example a specific setup that he had for the
-terminal-based text editor Vim. I have no shame in saying that I actually learned some things from my mentee.&lt;/p&gt;
-
-&lt;p&gt;My relationship with this mentee was more akin to colleague buddies. We were both close in age and was very techno-optimistic (I’m less techno-optimistic now) and
-think that technological advancement is always the best. We thought that impediments to technological progress is always bad. We bonded over the frustration of not
-being able to use and try out more modern techniques or tools, because management would say its too risky. We would shrug them off as an evil that we needed to live
-with and begrudgingly dreaded whenever we had to work with parts of the system that was deemed ancient (even by the really senior members in our team).&lt;/p&gt;
-
-&lt;p&gt;Then, my relationship as a mentor had to end because I was scouted by another team. There is an inherent idea in my head that the success of a mentor is in how much
-one can impart their knowledge to the mentee and in this view I would say I had done a poor job as a mentor. But I take solace in thinking that I was a great
-and relatable colleague, hopefully.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-second-mentee&quot;&gt;The second mentee&lt;/h1&gt;
-
-&lt;p&gt;A bit more than a year into my software engineering career I was again given the opportunity to mentor an incoming colleague. This time, my mentee was actually
-just freshly started work as a professional software engineer. She also came from a more research oriented background, unlike my first mentee that came from a more
-engineering oriented background. It was clear from the get go that as a professional she was very green in terms of software engineering standards and the practical
-skills. I didn’t have to teach her to code, but at times I had to assist her in trying to understand one technical choice over the other. I do not know whether I
-was actually being an effective mentor, but often my mentee would come to ask me for assistance for her own project. When I had time to spare I would ask how she’s
-doing and ask if she needs assistance.&lt;/p&gt;
-
-&lt;p&gt;Around this time my attitude towards code quality was also becoming more bullish. Still coming off from the assumption that technical progress is important, as
-important or if not exceeding at times to some business needs, I would at times be hellbent that some technical progress be included into a project. One such
-example would be automated testing and basic CI/CD, which we were greatly lacking back then. To the credit of my persistence, and also some heavy silences during
-team debates, gradually my team started to adopt some of the ideas that I kept throwing at them. It wasn’t perfect of course, and it wasn’t smooth or complete either,
-but it got things going.&lt;/p&gt;
-
-&lt;p&gt;Reflecting on my code-quality-hellbent-saga I remember some times when I tried to directly impart this knowledge to my mentee, but uneffectively. I would tell her
-to revise her code several times, and then may in the end revert some suggestions back. Why you may ask? Well it was because I was also trying to learn the thing
-that I was trying to impart to my mentee. I had the drive yes, but I was rough in the edges and was more like a bulldoze trying to make its way through instead
-of being more like a worker ant and learning with and encouraging my mentee. I’m sure my team had their frustrations with me too and probably felt confused
-at times by my behaviour too.&lt;/p&gt;
-
-&lt;h1 id=&quot;the-third-mentee&quot;&gt;The third mentee&lt;/h1&gt;
-
-&lt;p&gt;The third mentee is more recent. In terms of technical skills this mentee is somewhere in between the first and second mentee, still inexperienced overall but not a
-blank slate. This time I have personally grown with regards to my technical skills from my time with my first and second mentee. I’ve refined my thoughts and experience
-a bit more and had more time to polish it. I still hold some strong opinions regarding particular positions related to the software craft, but I think I can say
-that I am more flexible than before.&lt;/p&gt;
-
-&lt;p&gt;I also try to be more accommodating and reasonable for my mentee this time, trying to explain things a bit more slowly and showcasing more examples. However, I do
-find myself to sometimes be a bit impatient with my mentee. It might be because of the experience that I had accumulated so far which makes certain things seem
-simple and easy for me. So when my mentee is not able to keep up with me I would sometimes say to myself “why can’t he get this quickly?”&lt;/p&gt;
-
-&lt;p&gt;But a recent reminder that I’m not always right (and certainly not great) was when I was helping my mentee for the code design of a feature he was working on. At first
-my mentee suggested a very simple solution that would get the job done, but I said it would be too inflexible for future changes and prone to breaking. My mentee
-agreed, and tried out my solution, made some unit tests and it seemed fine, until it wasn’t when a more comprehensive integration test was conducted. Turns out I made
-incorrect assumptions in my solution, and my mentee’s simpler solution would not have run to the same issue as mine. To be honest it did feel bad that not only was I
-wrong but also I led my mentee to an incorrect solution, but am glad that overall I managed to resolve everything together with my mentee.&lt;/p&gt;
-
-&lt;h1 id=&quot;rounding-up-my-experience-so-far&quot;&gt;Rounding up my experience so far&lt;/h1&gt;
-
-&lt;p&gt;Reflecting on my mentorship experiences so far here are some things that I have taken away:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;It is important as a mentor to actually be able to impart the skills that you are mentoring in. Being close colleagues with my first mentee was good, but I could
-have been a much more effective mentor and support for my mentee had I had the skills to backup my position&lt;/li&gt;
-  &lt;li&gt;A mentor is a teacher in knowledge, methods and also in conduct. If a mentee is to learn from a mentor, then a mentor should reflect the correct posture to learning
-and be open to the need for growing themselves&lt;/li&gt;
-  &lt;li&gt;Related to learning, I learned and am reminded that humility is so important, because we won’t get everything right. We need to learn with humility and open to admit
-our mistakes&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;To finish things off, there is a proverbial quote I like to say that goes like this (though I’m not sure where of its origins):&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Above the sky, there is another sky&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;There will always be someone better than you, and so there is always room for you to improve and grow, even if you are a mentor and role model for someone&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><category term="professional life" /><category term="reflection" /><summary type="html">Trust me that this picture of clouds isn't randomly put here</summary></entry></feed>
+&lt;p&gt;I’m truly happy for the work that my friend managed to do. Sadly, there is no attribution link I can direct to for her right now, but I hope to add it in the future.&lt;/p&gt;</content><author><name>btruhand</name><email>btruhand@gmail.com</email></author><category term="blog improvement" /><summary type="html">I commissioned a good designer friend of mine for a logo for this site (including a favicon), and I want to outline why the logo looks like the way it is.</summary></entry></feed>
