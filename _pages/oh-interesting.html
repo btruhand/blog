@@ -1,0 +1,36 @@
+---
+layout: categories
+permalink: /oh-interesting/
+title: Oh! Interesting...
+search_exclude: true
+---
+
+{% if site.categories.size > 0 %}
+<h2>Oh! Interesting...</h2>
+
+<p>
+  A collection of posts on the series <b>Oh! Interesting</b>
+</p>
+<p>
+  <b>Oh! Interesting</b> are posts that contains a list of online materials that I found interesting. The materials
+  cover a range of media and topics. Each materials in each post are accompanied with summarizing bullet points and
+  comments. Each included materials do not refelct endorsements or critiques, they are purely listed as informational in
+  nature. The comments are similarly made
+</p>
+<p>
+  In any given week only one <b>Oh! Interesting</b> post will be made. The issuance of a post currently <i>has no set
+    schedule</i>
+</p>
+
+{% for post in site.posts %}
+{% if post.oh-interesting %}
+{% if post.hide != true %}
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<article class="archive-item">
+  <p class="post-meta post-meta-title"><a class="page-meta" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> •
+    {{ post.date | date: date_format }}</p>
+</article>
+{% endif %}
+{% endif %}
+{% endfor %}
+{% endif %}
