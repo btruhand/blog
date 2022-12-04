@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: btruhand - scattering of thoughts
-description: Btruhand's blogging outlet, ranging from technical writeups to social opions 
+description: Btruhand's blogging outlet, ranging from technical writeups to social opions
 github_username: btruhand
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
@@ -43,8 +43,9 @@ baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    github: btruhand
-    linkedin: btara-truhandarien
+    - { platform: rss, user_url: "/feed.xml" }
+    - { platform: github, user_url: "https://github.com/btruhand/" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/btara-truhandarien/" }
 
 # Set this to true to get LaTeX math equation support
 use_math: false
