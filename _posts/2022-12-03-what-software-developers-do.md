@@ -3,7 +3,6 @@ layout: post
 description: Answering this nebulous question with a seemingly similar nebulous answer
 title: What does a software developer do?
 permalink: /post/:year/:month/:day/:title
-image: /images/exploding_rubicks.gif
 categories: [software development]
 toc: true
 ---

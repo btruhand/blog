@@ -8,6 +8,15 @@
 
 title: btruhand - scattering of thoughts
 description: Btruhand's blogging outlet, ranging from technical writeups to social opions
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      image: /images/exploding_rubicks.gif
+      type: "article"
+
 github_username: btruhand
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
