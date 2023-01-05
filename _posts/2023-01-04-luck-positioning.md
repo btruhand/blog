@@ -1,7 +1,7 @@
 ---
 layout: post
 description: A new year brings about new unexpected possibilities to grasp. What's the best way to make the most out of these coincidental moments? Consider your luck positioning 
-title: The luck positioning stat
+title: The luck positioning attribute
 permalink: /post/:year/:month/:day/:title
 categories: [new year, psychology, opinion]
 toc: true
