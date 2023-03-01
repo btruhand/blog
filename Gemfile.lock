@@ -93,13 +93,8 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.17.0)
-<<<<<<< HEAD
-    multipart-post (2.1.1)
-    nokogiri (1.13.10)
-=======
     multipart-post (2.3.0)
     nokogiri (1.14.2)
->>>>>>> 18b9139 (chore(gems): update Gemfile.lock)
       mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     octicons (17.10.0)
